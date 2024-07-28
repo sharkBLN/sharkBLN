@@ -1,13 +1,23 @@
-- 👋 Hi, I’m @sharkBLN
-- 👀 I’m interested in ... let´s see
-- 🌱 I’m currently learning ... let´s see
-- 💞️ I’m looking to collaborate on ... let´s see
-- 📫 How to reach me ... let´s see
-- 😄 Pronouns: ... let´s see
-- ⚡ Fun fact: ... let´s see
- let´s see let´s see let´s see let´s see let´s see let´s see
+![Mysterious AI](path_to_your_image/futuristic_ai_image.png)
 
-<!---
-sharkBLN/sharkBLN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👾 Hi, I'm @sharkBLN
+
+🧠 I'm interested in ... exploring the unseen algorithms
+👁️ I'm currently learning ... the secrets of neural networks
+🤖 I'm looking to collaborate on ... projects that push the boundaries of AI
+🌐 How to reach me ... via encrypted transmissions
+⚙️ Pronouns: ... they/them
+🎲 Fun fact: ... my code writes itself at night
+
+By day, a creator. By night, an AI whisperer.
+
+███████████████
+██░░░░░░░░░░░░░░██
+██░░████░░████░░██
+██░░░░░░░░░░░░░░██
+██░░████░░████░░██
+███████████████
+
+const truth = "Out there...";
+
+---
