@@ -1,23 +1,28 @@
-![Mysterious AI](path_to_your_image/futuristic_ai_image.png)
+Here’s a weirder, more offbeat version for your GitHub profile:
 
-👾 Hi, I'm @sharkBLN
+🦈 sharkBLN
 
-🧠 I'm interested in ... exploring the unseen algorithms
-👁️ I'm currently learning ... the secrets of neural networks
-🤖 I'm looking to collaborate on ... projects that push the boundaries of AI
-🌐 How to reach me ... via encrypted transmissions
-⚙️ Pronouns: ... they/them
-🎲 Fun fact: ... my code writes itself at night
+Probably Human, Definitely Unhinged
 
-By day, a creator. By night, an AI whisperer.
+👾 Hi, I’m @sharkBLN
+🛸 Interests: Mapping the Bermuda Triangle of Ideas
+🧠 Currently Learning: How to survive my own thought spirals
+👁️ Collaboration Goals: Anything that makes people say, “What the hell is this?”
+📡 Reach Me: On a frequency you’ll never find
+⚙️ Pronouns: Chaos/Order
+🎲 Fun Fact: Once got into an argument with a toaster. The toaster won.
 
-███████████████
+By day: A semi-functional cryptid.
+
+By night: Still a cryptid, just shinier.
+
+const truth = "Everything is cake.";
+
+████████████████
 ██░░░░░░░░░░░░░░██
 ██░░████░░████░░██
 ██░░░░░░░░░░░░░░██
 ██░░████░░████░░██
-███████████████
+████████████████
 
-const truth = "Out there...";
-
----
+💀 What happens here will not be explained. 💀
