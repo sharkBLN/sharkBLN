@@ -2,8 +2,8 @@ name: Update Shark Activities
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Läuft jeden Tag um Mitternacht (UTC)
-  workflow_dispatch:      # Ermöglicht manuelles Ausführen
+    - cron: '0 0 * * *'  # Läuft täglich um Mitternacht UTC
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # WICHTIG: Checkout mit Schreibrechten
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -34,7 +36,8 @@ jobs:
         run: |
           git config --global user.email "shark-bot@users.noreply.github.com"
           git config --global user.name "Shark Activity Bot"
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+          git pull --rebase
           git add README.md
           git diff --cached --quiet || git commit -m "🦈 Daily shark activities update"
-          git push
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
+
