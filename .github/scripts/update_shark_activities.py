@@ -1,44 +1,9 @@
-name: Update Shark Activities
+from datetime import datetime
 
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Täglich um Mitternacht (UTC)
-  workflow_dispatch:
+readme_path = "README.md"
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
+with open(readme_path, "a") as f:
+    f.write(f"\n\n🦈 Updated at {datetime.utcnow().isoformat()} UTC")
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Ermöglicht Push-Rechte
+print("README.md wurde aktualisiert.")
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install PyGithub
-
-      - name: Run update script
-        run: python .github/scripts/update_shark_activities.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit and push README update
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.email "shark-bot@users.noreply.github.com"
-          git config --global user.name "Shark Activity Bot"
-          git pull --rebase
-          git add README.md
-          git diff --cached --quiet || git commit -m "🦈 Daily shark activities update"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
-print("Shark activity script 
-läuft!")
