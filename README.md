@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Shark Banner](https://media.giphy.com/media/XbPUJYQOjK7rrEVdPt/giphy.gif)
+  ![Shark Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxjZTEzcnI4ZWljeHl6cm9tcTN0eTVpbWxjejQyZnA1eWZwczNpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RWOkSHnf64F3WYb8CE/giphy.gif)
 
   *"Just when you thought your code was safe to deploy..."*
   
