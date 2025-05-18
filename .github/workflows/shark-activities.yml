@@ -2,7 +2,7 @@ name: Update Shark Activities
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Läuft täglich um Mitternacht UTC
+    - cron: '0 0 * * *'  # Täglich um Mitternacht (UTC)
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # WICHTIG: Checkout mit Schreibrechten
+          token: ${{ secrets.GITHUB_TOKEN }}  # Ermöglicht Push-Rechte
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,7 +30,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push changes
+      - name: Commit and push README update
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
