@@ -1,4 +1,4 @@
-markdown# 🦈 *Swimming in the Deep Code* 🦈
+# 🦈 *Swimming in the Deep Code* 🦈
 
 <div align="center">
   
@@ -8,14 +8,24 @@ markdown# 🦈 *Swimming in the Deep Code* 🦈
   
   ![Visitor Counter](https://profile-counter.glitch.me/SharkBLN/count.svg)
   
-  [![Shark Mood](https://img.shields.io/badge/Shark%20Mood-hungry%20for%20code-blue?style=for-the-badge)](https://github.com/SharkBLN)
+  [![Shark Mood](https://img.shields.io/badge/dynamic/json?color=blue&label=Shark%20Mood&query=mood&url=https://gist.githubusercontent.com/SharkBLN/shark-mood/raw/mood.json&style=for-the-badge)](https://github.com/SharkBLN)
 </div>
 
 ## 🌊 The Shark Manifesto 🌊
+
+```
 While you swim in shallow repos,
 I hunt bugs in the deep.
 Code that works? That's just the start.
 The best code makes devs weep.
+```
+
+## 🦈 About This Shark 🦈
+
+- **Habitat**: The dark waters of Berlin's tech ecosystem
+- **Diet**: Primarily feeds on buggy code, stale PRs, and unoptimized algorithms
+- **Warning Signs**: Commit frequency increases before a major bite
+- **Conservation Status**: Endangered (Works best when caffeinated)
 
 ## 🔱 Weapons in My Arsenal 🔱
 
@@ -36,9 +46,12 @@ The best code makes devs weep.
 *Taming digital dragons: A pipeline that breathes fire on abusive content so you don't have to*
 
 <img src="https://img.shields.io/github/stars/sharkBLN/abuse_pipeline?style=social" />
+
+```
 🐉 Status: Hunting dragons in the wild
 🦈 Threat Level: Apex predator of system threats
 🔮 Secret Weapon: Multi-layered detection algorithms
+```
 
 **What lurks beneath:**
 - 🔍 Authentication attack detection & brute force defense
@@ -63,10 +76,13 @@ The best code makes devs weep.
 - 🐉 Developing advanced alerting systems that bite back at threats
 
 ## 🔮 The Prophecy 🔮
+
+```
 They say on the darkest deployment night,
 When servers crash and tensions are tight,
 The SharkBLN appears from the deep,
 With patches and fixes to help you sleep.
+```
 
 ## 📊 Hunting Statistics 📊
 
