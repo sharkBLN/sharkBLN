@@ -179,7 +179,7 @@ The best code makes devs weep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"In the vast ocean of code, SharkBLN is the apex debugger."</i>
+  <i>"While sharks use their ampullae of Lorenzini, SharkBLN uses logging and monitoring to detect disturbances in the system."</i>
 </div>
 
 ## 🏆 Shark Achievements
