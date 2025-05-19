@@ -497,3 +497,54 @@ With patches and fixes to help you sleep.
     <span style="color: #00FFFF;">🦈</span> <b style="color: #64FFDA;">Swim at your own risk</b> <span style="color: #00FFFF;">🦈</span>
   </p>
 </div>
+<!-- Glowing Separator -->
+<div align="center" style="margin: 40px 0; position: relative;">
+  <div style="position: absolute; height: 2px; width: 100%; background: linear-gradient(90deg, transparent, #00FFFF, transparent); filter: blur(1px);"></div>
+  <div style="position: absolute; height: 2px; width: 70%; background: linear-gradient(90deg, transparent, #00FFFF, transparent); filter: blur(2px);"></div>
+  <div style="position: absolute; height: 2px; width: 40%; background: linear-gradient(90deg, transparent, #00FFFF, transparent); filter: blur(3px);"></div>
+  <div style="height: 15px;"></div>
+</div>
+
+<!-- Final Cyberpunk Prophecy -->
+<div align="center" style="background: linear-gradient(145deg, #0A192F, #0D2A4D); padding: 30px; border-radius: 15px; margin: 30px auto; box-shadow: 0 0 30px rgba(0,255,255,0.2); max-width: 700px; position: relative; overflow: hidden;">
+  <!-- Background glow -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle at 50% 30%, rgba(0,255,255,0.03) 0%, transparent 60%); z-index: 0;"></div>
+  
+  <h3 style="color: #00FFFF; margin-bottom: 20px; position: relative; z-index: 1; text-shadow: 0 0 5px rgba(0,255,255,0.3);">🔮 THE PROPHECY</h3>
+  
+  <p style="color: #CCD6F6; font-style: italic; text-align: center; margin: 0; line-height: 1.6; position: relative; z-index: 1; text-shadow: 0 0 3px rgba(0,255,255,0.1);">
+    They say on the darkest deployment night,<br>
+    When servers crash and tensions are tight,<br>
+    The SharkBLN appears from the deep,<br>
+    With patches and fixes to help you sleep.
+  </p>
+</div>
+
+<!-- Wave Animation Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0066FF&height=120&section=footer&fontSize=40&fontColor=0A192F&animation=twinkling&fontAlignY=80" width="100%"/>
+</div>
+
+<!-- Profile Counter with Enhanced Visuals -->
+<div align="center" style="margin-top: -60px; margin-bottom: 20px; position: relative; z-index: 100;">
+  <div style="background: rgba(10,25,47,0.8); padding: 15px; border-radius: 20px; display: inline-block; box-shadow: 0 0 20px rgba(0,255,255,0.3); border: 1px solid rgba(0,255,255,0.2);">
+    <a href="https://github.com/SharkBLN">
+      <img src="https://profile-counter.glitch.me/SharkBLN/count.svg" style="filter: drop-shadow(0 0 5px rgba(0,255,255,0.5));" />
+    </a>
+  </div>
+</div>
+
+<!-- Final Mood Badge -->
+<div align="center" style="margin: 20px 0; position: relative; z-index: 10;">
+  <a href="https://github.com/SharkBLN" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/SHARK%20MOOD-HUNGRY%20FOR%20CODE-0A192F?style=for-the-badge&color=00FFFF&labelColor=0A192F" style="box-shadow: 0 0 15px rgba(0,255,255,0.3);" />
+  </a>
+  
+  <p style="color: #CCD6F6; margin-top: 15px; font-style: italic; text-shadow: 0 0 5px rgba(0,255,255,0.2);">
+    The ocean is dark and full of terrors, but my code is darker.
+  </p>
+  
+  <p style="margin-top: 10px;">
+    <span style="color: #00FFFF;">🦈</span> <b style="color: #64FFDA;">Swim at your own risk</b> <span style="color: #00FFFF;">🦈</span>
+  </p>
+</div>
