@@ -1,5 +1,42 @@
 # 🦈 *Swimming in the Deep Code* 🦈
+# 👋 Hi there, I'm SharkBLN 
 
+System engineer and automation enthusiast passionate about optimizing development environments and workflows.
+
+## 🧰 About Me
+
+I'm a developer who believes in the power of well-crafted configurations and automation to enhance productivity. My work focuses on creating efficient, secure development environments and tools.
+
+## 🚀 Projects & Configurations
+
+### [nil_system](https://github.com/sharkBLN/nil_system)
+A collection of my system configuration scripts and automation tools:
+- `disk_cleanup.zsh` - Automated disk maintenance and cleanup
+- `preauth.zsh` - Terminal pre-initialization authentication
+- `quick.zsh` - Quick status command for system monitoring
+- Other utility scripts for system optimization
+
+## 🛠️ Tools & Technologies
+
+### Development Environment
+![Zsh](https://img.shields.io/badge/-Zsh-black?style=flat-square&logo=gnu-bash)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Terminal](https://img.shields.io/badge/-Terminal-black?style=flat-square&logo=iterm2)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+### Automation
+- Shell scripting for system automation
+- Configuration management
+- Performance optimization
+- GitHub Actions workflows
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharkBLN&show_icons=true&theme=tokyonight&count_private=true)
+
+---
+
+💡 *"Simplicity is the ultimate sophistication."*
 <div align="center">
   
   ![Shark Banner](https://media.giphy.com/media/XbPUJYQOjK7rrEVdPt/giphy.gif)
