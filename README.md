@@ -179,7 +179,7 @@ The best code makes devs weep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"Sharks can swim up to 45 mph. SharkBLN's CI/CD pipeline is even faster!"</i>
+  <i>"SharkBLN's code reviews are like a shark's bite - thorough and leaving a lasting impression."</i>
 </div>
 
 ## 🏆 Shark Achievements
@@ -341,7 +341,7 @@ With patches and fixes to help you sleep.
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <p>
     <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"Sharks can swim up to 45 mph. SharkBLN's CI/CD pipeline is even faster!"</i>
+  <i>"SharkBLN's code reviews are like a shark's bite - thorough and leaving a lasting impression."</i>
   </p>
 </div>
 
