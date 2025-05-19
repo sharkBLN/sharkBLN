@@ -1,5 +1,12 @@
-#  🦈 just a code-sniffing shark 🦈 <br>– I automate the boring and hunt bugs in the deep end.<br>- bashshark@cyberpunk:~$ sudo systemctl start shark-patrol  <br>> Loading chaos engine…  <br>> Scanning for code things…  <br>> sorry, what .... hellooooo ..<br>> Deploying smackdown…  <br>> Status: Victory  <br>"Your code never saw me coming."
-
+🦈 Just a shark 🦈
+I automate the boring and hunt bugs in the deep end.
+bashshark@cyberpunk:~$ sudo systemctl start shark-patrol  
+> Loading chaos engine…  
+> Scanning for code critters…  
+> ALERT: Bug spotted!  
+> Deploying smackdown…  
+> Status: Victory  
+"Your code never saw me coming."
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@NilBerlin) 
