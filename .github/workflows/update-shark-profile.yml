@@ -1,0 +1,78 @@
+name: Update Shark Profile
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight (UTC)
+  workflow_dispatch:      # Allows manual execution
+  push:
+    paths:
+      - 'README.md'      # Also run when README is manually updated
+    branches:
+      - main            # Only run on main branch updates
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write    # Needed for pushing changes
+      pull-requests: read # Needed for PR stats
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Fetch all history for proper activity tracking
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyGithub requests
+      
+      - name: Run update script
+        id: update
+        run: |
+          chmod +x .github/scripts/update_shark_profile.py
+          output=$(python .github/scripts/update_shark_profile.py)
+          echo "script_output=$output" >> $GITHUB_OUTPUT
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_ACTOR: ${{ github.actor }}
+      
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet README.md || echo "changes=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push README update
+        if: steps.changes.outputs.changes == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.email "shark-bot@users.noreply.github.com"
+          git config --global user.name "Shark Activity Bot"
+          git pull --rebase
+          git add README.md
+          git commit -m "🦈 Daily shark profile update
+
+          • Updated recent activities
+          • Refreshed daily shark fact
+          • Updated project status
+          • Recalculated achievements
+          • Updated tech stack stats
+
+          [Skip CI] #${{ github.run_number }}"
+          git push origin ${{ github.ref_name }}
+      
+      - name: Handle Failure
+        if: failure()
+        run: |
+          echo "::error::Failed to update profile. Check the logs for more details."
+          exit 1
+
