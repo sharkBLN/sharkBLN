@@ -276,7 +276,7 @@ The best code makes devs weep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"In the vast ocean of code, SharkBLN is the apex debugger."</i>
+  <i>"SharkBLN's code reviews are like a shark's bite - thorough and leaving a lasting impression."</i>
 </div>
 
 ## 🏆 Shark Achievements
@@ -438,7 +438,7 @@ With patches and fixes to help you sleep.
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <p>
     <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"In the vast ocean of code, SharkBLN is the apex debugger."</i>
+  <i>"SharkBLN's code reviews are like a shark's bite - thorough and leaving a lasting impression."</i>
   </p>
 </div>
 
