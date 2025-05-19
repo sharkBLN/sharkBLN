@@ -179,7 +179,7 @@ The best code makes devs weep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"SharkBLN's keyboard has no ESC key - just like there's no escaping a determined shark!"</i>
+  <i>"While sharks use their ampullae of Lorenzini, SharkBLN uses logging and monitoring to detect disturbances in the system."</i>
 </div>
 
 ## 🏆 Shark Achievements
@@ -341,7 +341,7 @@ With patches and fixes to help you sleep.
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <p>
     <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"SharkBLN's keyboard has no ESC key - just like there's no escaping a determined shark!"</i>
+  <i>"While sharks use their ampullae of Lorenzini, SharkBLN uses logging and monitoring to detect disturbances in the system."</i>
   </p>
 </div>
 
