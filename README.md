@@ -110,7 +110,7 @@ With patches and fixes to help you sleep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"SharkBLN's git branches are like shark fins - always visible above the surface, warning others of activity below."</i>
+  <i>"While sharks use their ampullae of Lorenzini, SharkBLN uses logging and monitoring to detect disturbances in the system."</i>
 </div>
 
 ## 🏆 Shark Achievements
