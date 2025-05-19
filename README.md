@@ -102,7 +102,7 @@ With patches and fixes to help you sleep.
     <tr>
       <td>
         <a href="https://github.com/sharkBLN/sharkBLN">
-          🦈 Hunting in sharkBLN - <i>Just now</i>
+          🦈 Hunting in sharkBLN - <i>1 minute ago</i>
         </a>
       </td>
     </tr>
@@ -110,7 +110,7 @@ With patches and fixes to help you sleep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"Just like real sharks never sleep, SharkBLN's monitoring systems run 24/7."</i>
+  <i>"Unlike most GitHub users, SharkBLN doesn't need coffee to code - the thrill of the hunt sustains it."</i>
 </div>
 
 ## 🏆 Shark Achievements
