@@ -276,7 +276,7 @@ The best code makes devs weep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"Some sharks can lose up to 30,000 teeth in a lifetime. SharkBLN has squashed even more bugs!"</i>
+  <i>"While sharks use their ampullae of Lorenzini, SharkBLN uses logging and monitoring to detect disturbances in the system."</i>
 </div>
 
 ## 🏆 Shark Achievements
@@ -438,7 +438,7 @@ With patches and fixes to help you sleep.
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <p>
     <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"Some sharks can lose up to 30,000 teeth in a lifetime. SharkBLN has squashed even more bugs!"</i>
+  <i>"While sharks use their ampullae of Lorenzini, SharkBLN uses logging and monitoring to detect disturbances in the system."</i>
   </p>
 </div>
 
