@@ -102,7 +102,7 @@ With patches and fixes to help you sleep.
     <tr>
       <td>
         <a href="https://github.com/sharkBLN/sharkBLN">
-          🦈 Hunting in sharkBLN - <i>1 minute ago</i>
+          🦈 Hunting in sharkBLN - <i>Just now</i>
         </a>
       </td>
     </tr>
@@ -110,7 +110,7 @@ With patches and fixes to help you sleep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"While sharks use their ampullae of Lorenzini, SharkBLN uses logging and monitoring to detect disturbances in the system."</i>
+  <i>"SharkBLN's keyboard has no ESC key - just like there's no escaping a determined shark!"</i>
 </div>
 
 ## 🏆 Shark Achievements
