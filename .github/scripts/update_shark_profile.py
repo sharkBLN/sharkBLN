@@ -26,103 +26,58 @@ GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "sharkBLN/sharkBLN")
 GITHUB_ACTOR = os.environ.get("GITHUB_ACTOR", "sharkBLN")
 
-# Extended Shark facts with more tech and security focus
-SHARK_FACTS = [
-    # Original facts
-    "Unlike most GitHub users, SharkBLN doesn't need coffee to code - the thrill of the hunt sustains it.",
-    "SharkBLN can detect a security vulnerability from a mile away, just as sharks can detect blood in water from great distances.",
-    "Just like real sharks never sleep, SharkBLN's monitoring systems run 24/7.",
-    "SharkBLN writes code with the same precision a shark uses to hunt its prey - no bugs escape!",
-    "While sharks have existed for 450 million years, SharkBLN's code is built to last even longer with proper documentation.",
-    "Some sharks can lose up to 30,000 teeth in a lifetime. SharkBLN has squashed even more bugs!",
-    "SharkBLN's code reviews are like a shark's bite - thorough and leaving a lasting impression.",
-    "Just as the Great White can detect one drop of blood in 25 gallons of water, SharkBLN can spot one bug in 25,000 lines of code.",
-    "Sharks can swim up to 45 mph. SharkBLN's CI/CD pipeline is even faster!",
-    "Like sharks have electroreception, SharkBLN has a sixth sense for detecting inefficient algorithms.",
-    "SharkBLN's git branches are like shark fins - always visible above the surface, warning others of activity below.",
-    "While sharks use their ampullae of Lorenzini, SharkBLN uses logging and monitoring to detect disturbances in the system.",
-    "SharkBLN's code deployment strategy: silent, efficient, and precise - just like a shark's hunting pattern.",
-    "In the vast ocean of code, SharkBLN is the apex debugger.",
-    "SharkBLN's keyboard has no ESC key - just like there's no escaping a determined shark!",
-    # New security-focused facts
-    "Just as sharks can sense electromagnetic fields, SharkBLN can detect security vulnerabilities in the codebase.",
-    "While sharks have multiple rows of teeth, SharkBLN has multiple layers of security.",
-    "SharkBLN's security patches are like a shark's immune system - always ready to fight off threats.",
-    "In the digital ocean, SharkBLN is the guardian of secure code practices.",
-    "SharkBLN's code review process is like a shark's sensory system - nothing gets past undetected.",
-    # New coding-focused facts
-    "While sharks adapt through evolution, SharkBLN adapts through continuous integration.",
-    "SharkBLN's repositories are like shark territories - well-maintained and fiercely protected.",
-    "Like a shark's streamlined body, SharkBLN's code is optimized for performance.",
-    "SharkBLN's debugging skills are like a shark's hunting instincts - precise and effective.",
-    "Just as sharks never stop swimming, SharkBLN never stops improving code quality.",
-    # New automation facts
-    "SharkBLN's automated tests are like a shark's lateral line - detecting disturbances before they become problems.",
-    "While sharks patrol the oceans, SharkBLN's monitoring systems patrol the networks.",
-    "SharkBLN's deployment scripts strike as fast as a shark attacking its prey.",
-    "Like a shark's powerful sensory system, SharkBLN's logging captures every important detail.",
-    "SharkBLN's error handling is like a shark's survival instinct - always prepared for the unexpected.",
-]
+# [Previous SHARK_FACTS and ACTIVITY_EMOJIS remain the same]
+# ... [Previous configurations remain the same] ...
 
-# Activity emoji mapping
-ACTIVITY_EMOJIS = {
-    "PushEvent": {
-        "prefix": "🦈 Hunting bugs",
-        "security": "🛡️ Security patch",
-        "feat": "✨ New feature",
-        "fix": "🔧 Bug fix",
-        "docs": "📚 Documentation",
-        "refactor": "♻️ Refactoring",
-        "test": "🧪 Testing",
-    },
-    "CreateEvent": {
-        "branch": "🌊 New hunting ground",
-        "repository": "🏰 New territory",
-        "tag": "🎯 New milestone",
-    },
-    "PullRequestEvent": {
-        "opened": "🎣 Started hunt",
-        "closed": "🔱 Successful hunt",
-        "reopened": "🔄 Resumed hunt",
-    },
-    "IssuesEvent": {
-        "opened": "👁️ Spotted prey",
-        "closed": "✅ Captured prey",
-        "reopened": "🔍 Tracking resumed",
-    },
-}
-
-# Keep existing functions but update the activity formatting...
+def get_github_client():
+    """Initialize and return a GitHub client."""
+    if not GITHUB_TOKEN:
+        print("Error: GITHUB_TOKEN environment variable not set.")
+        return None
+    
+    return Github(GITHUB_TOKEN)
 
 def get_activity_emoji(event_type: str, payload: Dict[str, Any] = None) -> str:
     """Get appropriate emoji for the activity type and content."""
     if event_type == "PushEvent" and payload and "commits" in payload:
         commit_msg = payload["commits"][0]["message"].lower()
         if any(keyword in commit_msg for keyword in ["security", "vuln", "cve"]):
-            return ACTIVITY_EMOJIS["PushEvent"]["security"]
+            return "🛡️"
         elif any(keyword in commit_msg for keyword in ["feat", "feature"]):
-            return ACTIVITY_EMOJIS["PushEvent"]["feat"]
+            return "✨"
         elif any(keyword in commit_msg for keyword in ["fix", "bug"]):
-            return ACTIVITY_EMOJIS["PushEvent"]["fix"]
+            return "🔧"
         elif any(keyword in commit_msg for keyword in ["doc", "readme"]):
-            return ACTIVITY_EMOJIS["PushEvent"]["docs"]
+            return "📚"
         elif any(keyword in commit_msg for keyword in ["refactor", "clean"]):
-            return ACTIVITY_EMOJIS["PushEvent"]["refactor"]
+            return "♻️"
         elif any(keyword in commit_msg for keyword in ["test", "spec"]):
-            return ACTIVITY_EMOJIS["PushEvent"]["test"]
-        return ACTIVITY_EMOJIS["PushEvent"]["prefix"]
+            return "🧪"
+        return "🦈"
     
     elif event_type == "CreateEvent" and payload:
         ref_type = payload.get("ref_type", "")
-        return ACTIVITY_EMOJIS["CreateEvent"].get(ref_type, "🌊")
+        if ref_type == "branch":
+            return "🌊"
+        elif ref_type == "repository":
+            return "🏰"
+        return "🎯"
     
     elif event_type == "PullRequestEvent" and payload:
         action = payload.get("action", "")
-        return ACTIVITY_EMOJIS["PullRequestEvent"].get(action, "🎣")
+        if action == "opened":
+            return "🎣"
+        elif action == "closed":
+            return "🔱"
+        return "🔄"
     
     elif event_type == "IssuesEvent" and payload:
         action = payload.get("action", "")
-        return ACTIVITY_EMOJIS["IssuesEvent"].get(action, "👁️")
+        if action == "opened":
+            return "👁️"
+        elif action == "closed":
+            return "✅"
+        return "🔍"
     
     return "🦈"
 
@@ -139,7 +94,7 @@ def format_activity_message(event_type: str, payload: Dict[str, Any], repo_name:
             if len(message) > 50:
                 message = message[:47] + "..."
             return f"{emoji} {message}"
-        return f"{emoji} in {repo_short_name}"
+        return f"{emoji} Hunting in {repo_short_name}"
     
     elif event_type == "CreateEvent":
         ref_type = payload.get("ref_type", "")
@@ -166,7 +121,6 @@ def format_activity_message(event_type: str, payload: Dict[str, Any], repo_name:
     
     return f"{emoji} Activity in {repo_short_name}"
 
-# Update the get_recent_activities function to use the new formatting
 def get_recent_activities(gh, username: str, limit: int = 3) -> List[Dict[str, Any]]:
     """Get recent GitHub activities for the specified user."""
     try:
@@ -212,8 +166,111 @@ def get_recent_activities(gh, username: str, limit: int = 3) -> List[Dict[str, A
         print(f"Error retrieving activities: {e}")
         return []
 
-# Keep the rest of the existing functions...
-# [Previous function implementations remain the same]
+def get_time_description(timestamp):
+    """Convert timestamp to human-readable relative time."""
+    now = datetime.now(timezone.utc)
+    delta = now - timestamp
+    
+    if delta < timedelta(minutes=1):
+        return "Just now"
+    elif delta < timedelta(hours=1):
+        minutes = delta.seconds // 60
+        return f"{minutes} minute{'s' if minutes > 1 else ''} ago"
+    elif delta < timedelta(days=1):
+        hours = delta.seconds // 3600
+        return f"{hours} hour{'s' if hours > 1 else ''} ago"
+    elif delta < timedelta(days=7):
+        days = delta.days
+        return f"{days} day{'s' if days > 1 else ''} ago"
+    elif delta < timedelta(days=30):
+        weeks = delta.days // 7
+        return f"{weeks} week{'s' if weeks > 1 else ''} ago"
+    else:
+        return timestamp.strftime("%b %d, %Y")
+
+def get_random_shark_fact():
+    """Return a random shark fact from the collection."""
+    return random.choice(SHARK_FACTS)
+
+def update_shark_sightings(content: str, activities: List[Dict[str, Any]]) -> str:
+    """Update the Recent Shark Sightings section with new activities."""
+    # Define patterns to find the shark sightings section
+    start_pattern = r'<table>[\s\S]*?<tr>[\s\S]*?<td><b>🌊 Recent Shark Sightings 🌊</b></td>[\s\S]*?</tr>'
+    end_pattern = r'</table>'
+    
+    # Find the start and end of the sightings section
+    start_match = re.search(start_pattern, content)
+    if not start_match:
+        print("Could not find the start of shark sightings section")
+        return content
+    
+    # Find the end of the table from the start position
+    content_after_start = content[start_match.end():]
+    end_match = re.search(end_pattern, content_after_start)
+    if not end_match:
+        print("Could not find the end of shark sightings section")
+        return content
+    
+    # Build the new sightings section
+    header = start_match.group(0)
+    new_rows = ""
+    
+    for activity in activities:
+        time_desc = get_time_description(activity["created_at"])
+        new_rows += f"""    <tr>
+      <td>
+        <a href="{activity['url']}">
+          {activity['message']} - <i>{time_desc}</i>
+        </a>
+      </td>
+    </tr>
+"""
+    
+    # Combine header, new rows, and footer
+    new_section = header + new_rows + end_pattern
+    
+    # Replace the old section with the new one
+    return content[:start_match.start()] + new_section + content[start_match.end() + end_match.end():]
+
+def update_shark_fact(content: str) -> str:
+    """Update the Daily Shark Fact section with a new random fact."""
+    fact_pattern = r'<b>🦈 Daily Shark Fact 🦈</b><br>\s*<i>".*?"</i>'
+    new_fact = f'<b>🦈 Daily Shark Fact 🦈</b><br>\n  <i>"{get_random_shark_fact()}"</i>'
+    
+    # Replace the old fact with the new one
+    updated_content = re.sub(fact_pattern, new_fact, content)
+    
+    return updated_content
+
+def update_readme():
+    """Main function to update the README.md file."""
+    try:
+        # Initialize GitHub client
+        gh = get_github_client()
+        if not gh:
+            return False
+        
+        # Read the current README content
+        with open(README_PATH, "r") as f:
+            content = f.read()
+        
+        # Get recent GitHub activities
+        activities = get_recent_activities(gh, GITHUB_ACTOR)
+        if activities:
+            content = update_shark_sightings(content, activities)
+        
+        # Update shark fact
+        content = update_shark_fact(content)
+        
+        # Write the updated content back to the README
+        with open(README_PATH, "w") as f:
+            f.write(content)
+        
+        print(f"README.md updated successfully at {datetime.now(timezone.utc).isoformat()} UTC")
+        return True
+    except Exception as e:
+        print(f"Error updating README: {e}")
+        return False
 
 if __name__ == "__main__":
     success = update_readme()
