@@ -1,115 +1,199 @@
-# 🦈 *Swimming in the Deep Code* 🦈
-# 👋 Hi there, I'm SharkBLN 
-
-System engineer and automation enthusiast passionate about optimizing development environments and workflows.
-
+<!-- Cyberpunk Header with Wave Animation -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SharkBLN&style=flat-square&color=00AEFF&label=Profile%20Views">
-  <a href="https://github.com/SharkBLN?tab=followers">
-    <img src="https://img.shields.io/github/followers/SharkBLN?style=social" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/SharkBLN?tab=stars">
-    <img src="https://img.shields.io/github/stars/SharkBLN?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0066FF&height=120&section=header&text=🦈%20Swimming%20in%20the%20Deep%20Code%20🦈&fontSize=30&fontColor=0A192F&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
-## 🧰 About Me
-
-I'm a developer who believes in the power of well-crafted configurations and automation to enhance productivity. My work focuses on creating efficient, secure development environments and tools.
-
-<div align="center">
+<div align="center" style="background:#0A192F; padding:25px; margin:15px auto; max-width:800px; border:1px solid #00FFFF; box-shadow: 0 0 15px rgba(0,255,255,0.3); border-radius:10px;">
+  <h1 style="color:#00FFFF; text-shadow: 0 0 10px rgba(0,255,255,0.5);">👋 Hi there, I'm SharkBLN</h1>
   
-  ![Shark Banner](https://media.giphy.com/media/XbPUJYQOjK7rrEVdPt/giphy.gif)
-
-  *"Just when you thought your code was safe to deploy..."*
+  <p style="color:#CCD6F6; margin-bottom:20px;">System engineer and automation enthusiast passionate about optimizing development environments and workflows.</p>
+  
+  <div style="margin:15px 0;">
+    <img src="https://komarev.com/ghpvc/?username=SharkBLN&style=for-the-badge&color=00FFFF&labelColor=0A192F&label=Profile%20Views" style="margin:0 5px; box-shadow: 0 0 8px rgba(0,255,255,0.3);">
+    <a href="https://github.com/SharkBLN?tab=followers">
+      <img src="https://img.shields.io/github/followers/SharkBLN?style=for-the-badge&color=00FFFF&labelColor=0A192F&logo=github" alt="GitHub followers" style="margin:0 5px; box-shadow: 0 0 8px rgba(0,255,255,0.3);">
+    </a>
+    <a href="https://github.com/SharkBLN?tab=stars">
+      <img src="https://img.shields.io/github/stars/SharkBLN?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00FFFF&labelColor=0A192F&logo=github" alt="GitHub User's stars" style="margin:0 5px; box-shadow: 0 0 8px rgba(0,255,255,0.3);">
+    </a>
+  </div>
 </div>
 
-## 📱 Connect With Me
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-00AEFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://t.me/yourusername">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
+<!-- Animated Separator -->
+<div align="center" style="margin:20px 0; position:relative;">
+  <div style="height:2px; width:100%; background:linear-gradient(90deg, transparent, #00FFFF, transparent);"></div>
+</div>
 
-## 🚀 Projects & Configurations
-
-### [nil_system](https://github.com/sharkBLN/nil_system)
-A collection of my system configuration scripts and automation tools:
-- `disk_cleanup.zsh` - Automated disk maintenance and cleanup
-- `preauth.zsh` - Terminal pre-initialization authentication
-- `quick.zsh` - Quick status command for system monitoring
-- Other utility scripts for system optimization
-
-### 🦑 Featured Repositories 🦑
-
+<!-- About Me Section with Cyberpunk Styling -->
 <div align="center">
-  <a href="https://github.com/sharkBLN/abuse_pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharkBLN&repo=abuse_pipeline&theme=dark&hide_border=true&bg_color=0D1117&title_color=00AEFF&icon_color=00AEFF&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/sharkBLN/nil_system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharkBLN&repo=nil_system&theme=dark&hide_border=true&bg_color=0D1117&title_color=00AEFF&icon_color=00AEFF&text_color=FFFFFF" />
-  </a>
+  <h2 style="color:#00FFFF; text-shadow: 0 0 10px rgba(0,255,255,0.5); margin:30px 0 20px 0;">🧰 ABOUT ME</h2>
 </div>
 
-## 🛠️ Tools & Technologies
+<div style="background: linear-gradient(145deg, #0A192F, #0D2A4D); padding:25px; margin:15px auto; max-width:800px; border:1px solid rgba(0,255,255,0.2); box-shadow: 0 0 15px rgba(0,255,255,0.2); border-radius:10px; position:relative;">
+  <div style="position:absolute; top:0; left:0; width:100%; height:100%; background:radial-gradient(circle at 50% 30%, rgba(0,255,255,0.03) 0%, transparent 70%); z-index:0;"></div>
+  
+  <p style="color:#CCD6F6; position:relative; z-index:1;">I'm a developer who believes in the power of well-crafted configurations and automation to enhance productivity. My work focuses on creating efficient, secure development environments and tools.</p>
 
-### Development Environment
-![Zsh](https://img.shields.io/badge/-Zsh-black?style=flat-square&logo=gnu-bash)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Terminal](https://img.shields.io/badge/-Terminal-black?style=flat-square&logo=iterm2)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+  <div align="center" style="margin:20px 0; position:relative; z-index:1;">
+    <img src="https://media.giphy.com/media/XbPUJYQOjK7rrEVdPt/giphy.gif" style="max-width:100%; border-radius:5px; border:1px solid rgba(0,255,255,0.3); box-shadow: 0 0 15px rgba(0,255,255,0.4);">
+    
+    <p style="color:#00FFFF; font-style:italic; margin-top:10px; text-shadow: 0 0 5px rgba(0,255,255,0.3);">"Just when you thought your code was safe to deploy..."</p>
+  </div>
+</div>
 
-### Automation
-- Shell scripting for system automation
-- Configuration management
-- Performance optimization
-- GitHub Actions workflows
+<!-- Animated Separator -->
+<div align="center" style="margin:30px 0; position:relative;">
+  <div style="height:2px; width:100%; background:linear-gradient(90deg, transparent, #00FFFF, transparent);"></div>
+  <div style="height:2px; width:70%; margin-top:2px; background:linear-gradient(90deg, transparent, #00FFFF, transparent);"></div>
+</div>
 
-## 🔱 Weapons in My Arsenal 🔱
+<!-- Connect Section with Cyberpunk Styling -->
+<div align="center">
+  <h2 style="color:#00FFFF; text-shadow: 0 0 10px rgba(0,255,255,0.5); margin:30px 0 20px 0;">📱 CONNECT WITH ME</h2>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-deep_sea_blue-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/javascript-shark_tooth_white-grey?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/security-blood_red-red?style=for-the-badge&logo=shield" />
-  <img src="https://img.shields.io/badge/machine_learning-night_black-black?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/kali_dragon-purple-purple?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/system_monitoring-teal-teal?style=for-the-badge&logo=grafana" />
-</p>
+<div style="background: linear-gradient(145deg, #0A192F, #0D2A4D); padding:25px; margin:15px auto; max-width:800px; border:1px solid rgba(0,255,255,0.2); box-shadow: 0 0 15px rgba(0,255,255,0.2); border-radius:10px; position:relative;">
+  <div style="position:absolute; top:0; left:0; width:100%; height:100%; background:radial-gradient(circle at 50% 30%, rgba(0,255,255,0.03) 0%, transparent 70%); z-index:0;"></div>
+  
+  <p align="center" style="position:relative; z-index:1;">
+    <a href="mailto:your.email@example.com" style="margin:5px; display:inline-block;">
+      <img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=0A192F&labelColor=00FFFF" alt="Email" style="box-shadow: 0 0 8px rgba(0,255,255,0.5);">
+    </a>
+    <a href="https://www.linkedin.com/in/yourusername" style="margin:5px; display:inline-block;">
+      <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=0A192F&labelColor=00FFFF" alt="LinkedIn" style="box-shadow: 0 0 8px rgba(0,255,255,0.5);">
+    </a>
+    <a href="https://twitter.com/yourusername" style="margin:5px; display:inline-block;">
+      <img src="https://img.shields.io/badge/Twitter-00FFFF?style=for-the-badge&logo=twitter&logoColor=0A192F&labelColor=00FFFF" alt="Twitter" style="box-shadow: 0 0 8px rgba(0,255,255,0.5);">
+    </a>
+    <a href="https://t.me/yourusername" style="margin:5px; display:inline-block;">
+      <img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=0A192F&labelColor=00FFFF" alt="Telegram" style="box-shadow: 0 0 8px rgba(0,255,255,0.5);">
+    </a>
+  </p>
+</div>
 
-## 🦑 The Shark Tank 🦑
+<!-- Animated Separator -->
+<div align="center" style="margin:30px 0; position:relative;">
+  <div style="height:2px; width:100%; background:linear-gradient(90deg, transparent, #00FFFF, transparent);"></div>
+  <div style="height:2px; width:70%; margin-top:2px; background:linear-gradient(90deg, transparent, #00FFFF, transparent);"></div>
+</div>
 
-> *Where prey projects swim and evolve under my watchful eye*
+<!-- Projects Section with Cyberpunk Styling -->
+<div align="center">
+  <h2 style="color:#00FFFF; text-shadow: 0 0 10px rgba(0,255,255,0.5); margin:30px 0 20px 0;">🚀 PROJECTS & CONFIGURATIONS</h2>
+</div>
 
-### 🔥 [Dragon Threats (abuse_pipeline)](https://github.com/sharkBLN/abuse_pipeline)
-*Taming digital dragons: A comprehensive security monitoring system that breathes fire on system threats*
+<div style="background: linear-gradient(145deg, #0A192F, #0D2A4D); padding:25px; margin:15px auto; max-width:800px; border:1px solid rgba(0,255,255,0.2); box-shadow: 0 0 15px rgba(0,255,255,0.2); border-radius:10px; position:relative;">
+  <div style="position:absolute; top:0; left:0; width:100%; height:100%; background:radial-gradient(circle at 50% 30%, rgba(0,255,255,0.03) 0%, transparent 70%); z-index:0;"></div>
+  
+  <h3 style="color:#00FFFF; position:relative; z-index:1; text-shadow: 0 0 5px rgba(0,255,255,0.3);">
+    <a href="https://github.com/sharkBLN/nil_system" style="color:#00FFFF; text-decoration:none;">
+      [nil_system]
+    </a>
+  </h3>
+  
+  <p style="color:#CCD6F6; position:relative; z-index:
 
-<img src="https://img.shields.io/github/stars/sharkBLN/abuse_pipeline?style=social" />
-🐉 Status: Active Development - Multiple Feature Branches
-🦈 Threat Level: Apex predator of system threats
-🔮 Secret Weapon: Multi-layered detection algorithms
+<!-- Tools & Technologies Section with Cyberpunk Styling -->
+<div align="center">
+  <h2 style="color:#00FFFF; text-shadow: 0 0 10px rgba(0,255,255,0.5); margin:30px 0 20px 0;">🛠️ TOOLS & TECHNOLOGIES</h2>
+</div>
 
-**What lurks beneath:**
-- 🔍 Authentication attack detection & brute force defense
-- 🧠 System resource monitoring (CPU, memory, disk usage)
-- 🕸️ Network activity surveillance for suspicious connections
-- 📁 Filesystem change detection in sensitive areas
-- ⚡ Process monitoring for crypto miners and unusual activity
-- 📬 Email alerting system with severity-based recommendations
-- 💬 Slack integration for real-time threat notifications
+<div style="background: linear-gradient(145deg, #0A192F, #0D2A4D); padding:25px; margin:15px auto; max-width:800px; border:1px solid rgba(0,255,255,0.2); box-shadow: 0 0 15px rgba(0,255,255,0.2); border-radius:10px; position:relative;">
+  <div style="position:absolute; top:0; left:0; width:100%; height:100%; background:radial-gradient(circle at 50% 30%, rgba(0,255,255,0.03) 0%, transparent 70%); z-index:0;"></div>
+  
+  <h3 style="color:#00FFFF; position:relative; z-index:1; text-shadow: 0 0 5px rgba(0,255,255,0.3);">⚙️ Development Environment</h3>
+  
+  <div align="center" style="margin:15px 0; position:relative; z-index:1;">
+    <img src="https://img.shields.io/badge/-Zsh-0A192F?style=for-the-badge&logo=gnu-bash&logoColor=00FFFF" style="margin:5px; box-shadow: 0 0 8px rgba(0,255,255,0.3);">
+    <img src="https://img.shields.io/badge/-Git-0A192F?style=for-the-badge&logo=git&logoColor=00FFFF" style="margin:5px; box-shadow: 0 0 8px rgba(0,255,255,0.3);">
+    <img src="https://img.shields.io/badge/-Terminal-0A192F?style=for-the-badge&logo=iterm2&logoColor=00FFFF" style="margin:5px; box-shadow: 0 0 8px rgba(0,255,255,0.3);">
+    <img src="https://img.shields.io/badge/-GitHub-0A192F?style=for-the-badge&logo=github&logoColor=00FFFF" style="margin:5px; box-shadow: 0 0 8px rgba(0,255,255,0.3);">
+  </div>
+  
+  <h3 style="color:#00FFFF; position:relative; z-index:1; text-shadow: 0 0 5px rgba(0,255,255,0.3);">⚡ Automation</h3>
+  
+  <ul style="color:#CCD6F6; position:relative; z-index:1; list-style-type:none; padding-left:0;">
+    <li style="margin:8px 0; padding-left:20px; position:relative;">
+      <span style="color:#00FFFF; position:absolute; left:0;">»</span> Shell scripting for system automation
+    </li>
+    <li style="margin:8px 0; padding-left:20px; position:relative;">
+      <span style="color:#00FFFF; position:absolute; left:0;">»</span> Configuration management
+    </li>
+    <li style="margin:8px 0; padding-left:20px; position:relative;">
+      <span style="color:#00FFFF; position:absolute; left:0;">»</span> Performance optimization
+    </li>
+    <li style="margin:8px 0; padding-left:20px; position:relative;">
+      <span style="color:#00FFFF; position:absolute; left:0;">»</span> GitHub Actions workflows
+    </li>
+  </ul>
+</div>
 
-**Currently Hunting In:**
-- 🔄 feature/slack-integration: Adding real-time Slack notifications
-- 🔍 feature/process-monitoring: Enhanced process behavior analysis
-- 🛡️ feature/system-integrity: System-wide integrity checks
+<!-- Animated Separator -->
+<div align="center" style="margin:30px 0; position:relative;">
+  <div style="height:2px; width:100%; background:linear-gradient(90deg, transparent, #00FFFF, transparent);"></div>
+  <div style="height:2px; width:70%; margin-top:2px; background:linear-gradient(90deg, transparent, #00FFFF, transparent);"></div>
+</div>
+
+<!-- Arsenal Section with Cyberpunk Styling -->
+<div align="center">
+  <h2 style="color:#00FFFF; text-shadow: 0 0 10px rgba(0,255,255,0.5); margin:30px 0 20px 0;">🔱 WEAPONS IN MY ARSENAL 🔱</h2>
+</div>
+
+<div style="background: linear-gradient(145deg, #0A192F, #0D2A4D); padding:25px; margin:15px auto; max-width:800px; border:1px solid rgba(0,255,255,0.2); box-shadow: 0 0 15px rgba(0,255,255,0.2); border-radius:10px; position:relative;">
+  <div style="position:absolute; top:0; left:0; width:100%; height:100%; background:radial-gradient(circle at 50% 30%, rgba(0,255,255,0.03) 0%, transparent 70%); z-index:0;"></div>
+  
+  <div align="center" style="position:relative; z-index:1;">
+    <img src="https://img.shields.io/badge/python-00FFFF?style=for-the-badge&logo=python&logoColor=0A192F&labelColor=00FFFF" style="margin:5px; box-shadow: 0 0 8px rgba(0,255,255,0.5);" />
+    <img src="https://img.shields.io/badge/javascript-00FFFF?style=for-the-badge&logo=javascript&logoColor=0A192F&labelColor=00FFFF" style="margin:5px; box-shadow: 0 0 8px rgba(0,255,255,0.5);" />
+    <img src="https://img.shields.io/badge/security-00FFFF?style=for-the-badge&logo=shield&logoColor=0A192F&labelColor=00FFFF" style="margin:5px; box-shadow: 0 0 8px rgba(0,255,255,0.5);" />
+    <img src="https://img.shields.io/badge/machine_learning-00FFFF?style=for-the-badge&logo=tensorflow&logoColor=0A192F&labelColor=00FFFF" style="margin:5px; box-shadow: 0 0 8px rgba(0,255,255,0.5);" />
+    <img src="https://img.shields.io/badge/kali_dragon-00FFFF?style=for-the-badge&logo=linux&logoColor=0A192F&labelColor=00FFFF" style="margin:5px; box-shadow: 0 0 8px rgba(0,255,255,0.5);" />
+    <img src="https://img.shields.io/badge/system_monitoring-00FFFF?style=for-the-badge&logo=grafana&logoColor=0A192F&labelColor=00FFFF" style="margin:5px; box-shadow: 0 0 8px rgba(0,255,255,0.5);" />
+  </div>
+</div>
+
+<!-- Animated Separator -->
+<div align="center" style="margin:30px 0; position:relative;">
+  <div style="height:2px; width:100%; background:linear-gradient(90deg, transparent, #00FFFF, transparent);"></div>
+  <div style="height:2px; width:70%; margin-top:2px; background:linear-gradient(90deg, transparent, #00FFFF, transparent);"></div>
+</div>
+
+<!-- Shark Tank Section with Cyberpunk Styling -->
+<div align="center">
+  <h2 style="color:#00FFFF; text-shadow: 0 0 10px rgba(0,255,255,0.5); margin:30px 0 20px 0;">🦑 THE SHARK TANK 🦑</h2>
+</div>
+
+<div style="background: linear-gradient(145deg, #0A192F, #0D2A4D); padding:25px; margin:15px auto; max-width:800px; border:1px solid rgba(0,255,255,0.2); box-shadow: 0 0 15px rgba(0,255,255,0.2); border-radius:10px; position:relative;">
+  <div style="position:absolute; top:0; left:0; width:100%; height:100%; background:radial-gradient(circle at 50% 30%, rgba(0,255,255,0.03) 0%, transparent 70%); z-index:0;"></div>
+  
+  <p style="color:#64FFDA; font-style:italic; text-align:center; margin-bottom:20px; position:relative; z-index:1; font-size:16px; text-shadow: 0 0 5px rgba(0,255,255,0.2);">
+    <span style="color:#00FFFF;">»</span> <em>Where prey projects swim and evolve under my watchful eye</em> <span style="color:#00FFFF;">«</span>
+  </p>
+  
+  <h3 style="color:#00FFFF; position:relative; z-index:1; text-shadow: 0 0 5px rgba(0,255,255,0.3); border-bottom:1px solid rgba(0,255,255,0.2); padding-bottom:10px;">
+    🔥 <a href="https://github.com/sharkBLN/abuse_pipeline" style="color:#00FFFF; text-decoration:none; background: linear-gradient(90deg, transparent, rgba(0,255,255,0.1), transparent); padding:3px 8px;">
+      Dragon Threats (abuse_pipeline)
+    </a>
+  </h3>
+  
+  <p style="color:#CCD6F6; position:relative; z-index:1; font-style:italic; margin-bottom:15px;">
+    <em>Taming digital dragons: A comprehensive security monitoring system that breathes fire on system threats</em>
+  </p>
+  
+  <div style="margin:15px 0; position:relative; z-index:1;">
+    <img src="https://img.shields.io/github/stars/sharkBLN/abuse_pipeline?style=for-the-badge&color=00FFFF&labelColor=0A192F" style="box-shadow: 0 0 8px rgba(0,255,255,0.3);" />
+    <div style="margin-top:10px;">
+      <span style="color:#00FFFF; margin-right:5px;">🐉</span><span style="color:#CCD6F6;">Status:</span> <span style="color:#64FFDA;">Active Development - Multiple Feature Branches</span>
+    </div>
+    <div style="margin-top:5px;">
+      <span style="color:#00FFFF; margin-right:5px;">🦈</span><span style="color:#CCD6F6;">Threat Level:</span> <span style="color:#64FFDA;">Apex predator of system threats</span>
+    </div>
+    <div style="margin-top:5px;">
+      <span style="color:#00FFFF; margin-right:5px;">🔮</span><span style="color:#CCD6F6;">Secret Weapon:</span> <span style="color:#64FFDA;">Multi-layered detection algorithms</span>
+    </div>
+  </div>
+  
+  <div style="margin-top
 
 ## 🌑 Dark Ocean Activities 🌑
 
