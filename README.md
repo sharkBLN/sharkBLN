@@ -110,7 +110,7 @@ With patches and fixes to help you sleep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"Sharks can swim up to 45 mph. SharkBLN's CI/CD pipeline is even faster!"</i>
+  <i>"While sharks use their ampullae of Lorenzini, SharkBLN uses logging and monitoring to detect disturbances in the system."</i>
 </div>
 
 ## 🏆 Shark Achievements
