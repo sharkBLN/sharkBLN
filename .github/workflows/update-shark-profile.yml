@@ -45,19 +45,21 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_ACTOR: ${{ github.actor }}
       
+      - name: Configure Git
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+      
       - name: Check for changes
         id: changes
         run: |
-          git diff --quiet README.md || echo "changes=true" >> $GITHUB_OUTPUT
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
       
       - name: Commit and push README update
         if: steps.changes.outputs.changes == 'true'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.email "shark-bot@users.noreply.github.com"
-          git config --global user.name "Shark Activity Bot"
-          git pull --rebase
           git add README.md
           git commit -m "🦈 Daily shark profile update
 
@@ -68,11 +70,12 @@ jobs:
           • Updated tech stack stats
 
           [Skip CI] #${{ github.run_number }}"
-          git push origin ${{ github.ref_name }}
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Handle Failure
         if: failure()
         run: |
           echo "::error::Failed to update profile. Check the logs for more details."
           exit 1
-
