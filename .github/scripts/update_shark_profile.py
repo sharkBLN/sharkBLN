@@ -26,7 +26,7 @@ GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "sharkBLN/sharkBLN")
 GITHUB_ACTOR = os.environ.get("GITHUB_ACTOR", "sharkBLN")
 
-# Extended Shark facts with more tech focus
+# Shark facts remain the same...
 SHARK_FACTS = [
     "Unlike most GitHub users, SharkBLN doesn't need coffee to code - the thrill of the hunt sustains it.",
     "SharkBLN can detect a security vulnerability from a mile away, just as sharks can detect blood in water from great distances.",
@@ -45,32 +45,32 @@ SHARK_FACTS = [
     "SharkBLN's keyboard has no ESC key - just like there's no escaping a determined shark!"
 ]
 
-# Shark Achievements definitions
+# Updated achievements with metrics we can actually track
 ACHIEVEMENTS = {
     "Deep Sea Explorer": {
         "description": "Made significant contributions to core repository code",
         "icon": "🌊",
-        "threshold": 100  # lines changed
+        "threshold": 10  # number of recent commits
     },
     "Swift Shark": {
-        "description": "Quick to review and merge PRs",
+        "description": "Maintains multiple active repositories",
         "icon": "⚡",
-        "threshold": 5  # PRs reviewed
+        "threshold": 3  # number of active repos
     },
     "Code Hunter": {
-        "description": "Found and fixed critical bugs",
+        "description": "Active across different projects",
         "icon": "🎯",
-        "threshold": 10  # issues closed
+        "threshold": 5  # different repos committed to
     },
     "Territory Guardian": {
-        "description": "Maintains multiple active repositories",
+        "description": "Creates and maintains project branches",
         "icon": "🛡️",
-        "threshold": 3  # active repos
+        "threshold": 3  # number of active branches
     },
     "Night Stalker": {
         "description": "Active in late-night coding sessions",
         "icon": "🌙",
-        "threshold": 10  # commits after hours
+        "threshold": 5  # commits outside normal hours
     }
 }
 
@@ -82,48 +82,59 @@ def get_github_client():
     
     return Github(GITHUB_TOKEN)
 
-def get_project_status(gh, repo_name: str) -> Dict[str, Any]:
-    """Get detailed status of a specific project."""
-    try:
-        repo = gh.get_repo(repo_name)
-        
-        # Get branch information
-        branches = list(repo.get_branches())
-        active_branches = [b for b in branches if b.commit.commit.author.date > 
-                         (datetime.now(timezone.utc) - timedelta(days=30))]
-        
-        # Get PR information
-        open_prs = list(repo.get_pulls(state='open'))
-        
-        # Get recent commits
-        commits = list(repo.get_commits(since=datetime.now(timezone.utc) - timedelta(days=7)))
-        
-        return {
-            "active_branches": len(active_branches),
-            "open_prs": len(open_prs),
-            "recent_commits": len(commits),
-            "watchers": repo.watchers_count,
-            "stars": repo.stargazers_count
-        }
-    except Exception as e:
-        print(f"Error getting project status: {e}")
-        return {}
-
-def get_tech_stack_status(gh, username: str) -> Dict[str, int]:
-    """Calculate technology usage based on recent activity."""
+def get_recent_activities(gh, username: str, limit: int = 3) -> List[Dict[str, Any]]:
+    """Get recent GitHub activities for the specified user."""
     try:
         user = gh.get_user(username)
-        repos = user.get_repos()
+        events = user.get_events()
         
-        language_stats = Counter()
-        for repo in repos:
-            if repo.language:
-                language_stats[repo.language] += 1
+        activities = []
+        count = 0
         
-        return dict(language_stats.most_common(5))
+        for event in events:
+            if count >= limit:
+                break
+                
+            if event.type in ["PushEvent", "CreateEvent", "PullRequestEvent", "IssuesEvent"]:
+                activity = {
+                    "type": event.type,
+                    "repo": event.repo.name,
+                    "created_at": event.created_at,
+                    "url": f"https://github.com/{event.repo.name}"
+                }
+                
+                # Add type-specific details
+                if event.type == "PushEvent":
+                    activity["message"] = f"Hunting bugs in {event.repo.name.split('/')[-1]}"
+                    if hasattr(event.payload, 'commits') and event.payload.commits:
+                        activity["message"] = f"🦈 {event.payload.commits[0].message[:50]}"
+                        if len(event.payload.commits[0].message) > 50:
+                            activity["message"] += "..."
+                
+                elif event.type == "CreateEvent" and event.payload.get("ref_type") == "branch":
+                    activity["message"] = f"Created hunting ground {event.payload.get('ref')} in {event.repo.name.split('/')[-1]}"
+                    activity["url"] = f"https://github.com/{event.repo.name}/tree/{event.payload.get('ref')}"
+                
+                elif event.type == "PullRequestEvent":
+                    activity["message"] = f"Circling PR waters: {event.payload.get('pull_request').title[:50]}"
+                    if len(event.payload.get('pull_request').title) > 50:
+                        activity["message"] += "..."
+                    activity["url"] = event.payload.get('pull_request').html_url
+                
+                elif event.type == "IssuesEvent":
+                    activity["message"] = f"Tracking prey: {event.payload.get('issue').title[:50]}"
+                    if len(event.payload.get('issue').title) > 50:
+                        activity["message"] += "..."
+                    activity["url"] = event.payload.get('issue').html_url
+                
+                activities.append(activity)
+                count += 1
+        
+        return activities
+    
     except Exception as e:
-        print(f"Error getting tech stack status: {e}")
-        return {}
+        print(f"Error retrieving activities: {e}")
+        return []
 
 def calculate_achievements(gh, username: str) -> List[str]:
     """Calculate earned achievements based on GitHub activity."""
@@ -131,65 +142,125 @@ def calculate_achievements(gh, username: str) -> List[str]:
         user = gh.get_user(username)
         earned = []
         
+        # Count recent events
+        events = list(user.get_events())
+        recent_commits = len([e for e in events if e.type == "PushEvent"])
+        
         # Check Deep Sea Explorer
-        commits = list(user.get_events())
-        commit_count = sum(1 for e in commits if e.type == "PushEvent")
-        if commit_count >= ACHIEVEMENTS["Deep Sea Explorer"]["threshold"]:
+        if recent_commits >= ACHIEVEMENTS["Deep Sea Explorer"]["threshold"]:
             earned.append("Deep Sea Explorer")
         
-        # Check Swift Shark
-        reviews = list(user.get_user_reviews())
-        if len(reviews) >= ACHIEVEMENTS["Swift Shark"]["threshold"]:
+        # Check Swift Shark (active repos)
+        active_repos = [repo for repo in user.get_repos() if not repo.archived]
+        if len(active_repos) >= ACHIEVEMENTS["Swift Shark"]["threshold"]:
             earned.append("Swift Shark")
         
-        # Check Territory Guardian
-        active_repos = len(list(user.get_repos()))
-        if active_repos >= ACHIEVEMENTS["Territory Guardian"]["threshold"]:
+        # Check Code Hunter (different repos committed to)
+        committed_repos = set(event.repo.name for event in events if event.type == "PushEvent")
+        if len(committed_repos) >= ACHIEVEMENTS["Code Hunter"]["threshold"]:
+            earned.append("Code Hunter")
+        
+        # Check Territory Guardian (active branches)
+        branch_count = 0
+        for repo in active_repos[:5]:  # Check only first 5 repos for performance
+            branch_count += len(list(repo.get_branches()))
+        if branch_count >= ACHIEVEMENTS["Territory Guardian"]["threshold"]:
             earned.append("Territory Guardian")
+        
+        # Check Night Stalker (late night commits)
+        night_commits = 0
+        for event in events:
+            if event.type == "PushEvent":
+                hour = event.created_at.hour
+                if hour < 6 or hour > 22:  # Between 10PM and 6AM
+                    night_commits += 1
+        if night_commits >= ACHIEVEMENTS["Night Stalker"]["threshold"]:
+            earned.append("Night Stalker")
         
         return earned
     except Exception as e:
         print(f"Error calculating achievements: {e}")
         return []
 
-def update_project_section(content: str, status: Dict[str, Any]) -> str:
-    """Update the project status section in README."""
-    project_pattern = r'(### 🔥 \[Dragon Threats \(abuse_pipeline\)\].*?)\n\n'
-    if not status:
+def get_time_description(timestamp):
+    """Convert timestamp to human-readable relative time."""
+    now = datetime.now(timezone.utc)
+    delta = now - timestamp
+    
+    if delta < timedelta(minutes=1):
+        return "Just now"
+    elif delta < timedelta(hours=1):
+        minutes = delta.seconds // 60
+        return f"{minutes} minute{'s' if minutes > 1 else ''} ago"
+    elif delta < timedelta(days=1):
+        hours = delta.seconds // 3600
+        return f"{hours} hour{'s' if hours > 1 else ''} ago"
+    elif delta < timedelta(days=7):
+        days = delta.days
+        return f"{days} day{'s' if days > 1 else ''} ago"
+    elif delta < timedelta(days=30):
+        weeks = delta.days // 7
+        return f"{weeks} week{'s' if weeks > 1 else ''} ago"
+    else:
+        return timestamp.strftime("%b %d, %Y")
+
+def get_random_shark_fact():
+    """Return a random shark fact from the collection."""
+    return random.choice(SHARK_FACTS)
+
+def update_shark_sightings(content: str, activities: List[Dict[str, Any]]) -> str:
+    """Update the Recent Shark Sightings section with new activities."""
+    # Define patterns to find the shark sightings section
+    start_pattern = r'<table>[\s\S]*?<tr>[\s\S]*?<td><b>🌊 Recent Shark Sightings 🌊</b></td>[\s\S]*?</tr>'
+    end_pattern = r'</table>'
+    
+    # Find the start and end of the sightings section
+    start_match = re.search(start_pattern, content)
+    if not start_match:
+        print("Could not find the start of shark sightings section")
         return content
     
-    new_status = f"""### 🔥 [Dragon Threats (abuse_pipeline)](https://github.com/sharkBLN/abuse_pipeline)
-*Taming digital dragons: A comprehensive security monitoring system that breathes fire on system threats*
-
-![](https://img.shields.io/badge/active_branches-{status['active_branches']}-blue?style=flat-square)
-![](https://img.shields.io/badge/open_prs-{status['open_prs']}-yellow?style=flat-square)
-![](https://img.shields.io/badge/recent_commits-{status['recent_commits']}-green?style=flat-square)
-![](https://img.shields.io/badge/watchers-{status['watchers']}-purple?style=flat-square)
-![](https://img.shields.io/badge/stars-{status['stars']}-gold?style=flat-square)
-
+    # Find the end of the table from the start position
+    content_after_start = content[start_match.end():]
+    end_match = re.search(end_pattern, content_after_start)
+    if not end_match:
+        print("Could not find the end of shark sightings section")
+        return content
+    
+    # Build the new sightings section
+    header = start_match.group(0)
+    new_rows = ""
+    
+    for activity in activities:
+        time_desc = get_time_description(activity["created_at"])
+        new_rows += f"""    <tr>
+      <td>
+        <a href="{activity['url']}">
+          {activity['message']} - <i>{time_desc}</i>
+        </a>
+      </td>
+    </tr>
 """
     
-    return re.sub(project_pattern, new_status, content, flags=re.DOTALL)
-
-def update_tech_stack(content: str, stats: Dict[str, int]) -> str:
-    """Update the tech stack section with current usage statistics."""
-    stack_pattern = r'(## 🔱 Weapons in My Arsenal.*?)</p>'
-    if not stats:
-        return content
+    # Combine header, new rows, and footer
+    new_section = header + new_rows + end_pattern
     
-    new_stack = '## 🔱 Weapons in My Arsenal\n\n<p align="center">\n'
-    for lang, count in stats.items():
-        color = "blue" if lang == "Python" else "grey" if lang == "JavaScript" else "red" if lang == "Go" else "purple"
-        new_stack += f'  <img src="https://img.shields.io/badge/{lang}-{count}_repos-{color}?style=for-the-badge&logo={lang.lower()}" />\n'
-    new_stack += '</p>'
-    
-    return re.sub(stack_pattern, new_stack, content, flags=re.DOTALL)
+    # Replace the old section with the new one
+    return content[:start_match.start()] + new_section + content[start_match.end() + end_match.end():]
 
-def update_achievements(content: str, achievements: List[str]) -> str:
+def update_shark_fact(content: str) -> str:
+    """Update the Daily Shark Fact section with a new random fact."""
+    fact_pattern = r'<b>🦈 Daily Shark Fact 🦈</b><br>\s*<i>".*?"</i>'
+    new_fact = f'<b>🦈 Daily Shark Fact 🦈</b><br>\n  <i>"{get_random_shark_fact()}"</i>'
+    
+    # Replace the old fact with the new one
+    updated_content = re.sub(fact_pattern, new_fact, content)
+    
+    return updated_content
+
+def update_achievements_section(content: str, achievements: List[str]) -> str:
     """Update the achievements section in README."""
     achievements_pattern = r'(## 🏆 Shark Achievements.*?)\n\n'
-    if not achievements:
-        return content
     
     new_achievements = '## 🏆 Shark Achievements\n\n'
     for achievement in achievements:
@@ -209,31 +280,21 @@ def update_readme():
         # Initialize GitHub client
         gh = get_github_client()
         if not gh:
-            return
+            return False
         
         # Read the current README content
         with open(README_PATH, "r") as f:
             content = f.read()
         
-        # Get project status
-        status = get_project_status(gh, "sharkBLN/abuse_pipeline")
-        if status:
-            content = update_project_section(content, status)
-        
-        # Get and update tech stack
-        tech_stats = get_tech_stack_status(gh, GITHUB_ACTOR)
-        if tech_stats:
-            content = update_tech_stack(content, tech_stats)
-        
-        # Calculate and update achievements
-        earned_achievements = calculate_achievements(gh, GITHUB_ACTOR)
-        if earned_achievements:
-            content = update_achievements(content, earned_achievements)
-        
         # Get recent GitHub activities
         activities = get_recent_activities(gh, GITHUB_ACTOR)
         if activities:
             content = update_shark_sightings(content, activities)
+        
+        # Calculate and update achievements
+        earned_achievements = calculate_achievements(gh, GITHUB_ACTOR)
+        if earned_achievements:
+            content = update_achievements_section(content, earned_achievements)
         
         # Update shark fact
         content = update_shark_fact(content)
@@ -248,8 +309,6 @@ def update_readme():
         print(f"Error updating README: {e}")
         return False
 
-# Keep existing functions (get_recent_activities, update_shark_sightings, etc.)
-# ... [previous function implementations remain the same] ...
-
 if __name__ == "__main__":
-    update_readme()
+    success = update_readme()
+    exit(0 if success else 1)
