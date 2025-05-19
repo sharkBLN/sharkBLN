@@ -110,7 +110,7 @@ With patches and fixes to help you sleep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"Some sharks can lose up to 30,000 teeth in a lifetime. SharkBLN has squashed even more bugs!"</i>
+  <i>"Just as the Great White can detect one drop of blood in 25 gallons of water, SharkBLN can spot one bug in 25,000 lines of code."</i>
 </div>
 
 ## 🏆 Shark Achievements
