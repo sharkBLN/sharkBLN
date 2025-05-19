@@ -132,7 +132,7 @@ With patches and fixes to help you sleep.
     <tr>
       <td>
         <a href="https://github.com/sharkBLN/sharkBLN">
-          🦈 Hunting in sharkBLN - <i>5 minutes ago</i>
+          🦈 Hunting in sharkBLN - <i>Just now</i>
         </a>
       </td>
     </tr>
@@ -147,7 +147,7 @@ With patches and fixes to help you sleep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"Unlike most GitHub users, SharkBLN doesn't need coffee to code - the thrill of the hunt sustains it."</i>
+  <i>"Some sharks can lose up to 30,000 teeth in a lifetime. SharkBLN has squashed even more bugs!"</i>
 </div>
 
 ## 🏆 Shark Achievements
