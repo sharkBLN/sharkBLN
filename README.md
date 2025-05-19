@@ -1,6 +1,19 @@
-<!-- Cyberpunk Header with Wave Animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0066FF&height=120&section=header&text=🦈%20Swimming%20in%20the%20Deep%20Code%20🦈&fontSize=30&fontColor=0A192F&animation=twinkling&fontAlignY=35" width="100%"/>
+<!-- Cyberpunk Header with Shark GIF -->
+<div align="center" style="margin-bottom: 20px; position: relative;">
+  <!-- Background glow effect -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle at center, rgba(0,255,255,0.2) 0%, transparent 70%); z-index: 0;"></div>
+  
+  <!-- Main header image with styling -->
+  <div style="position: relative; z-index: 1; max-width: 800px; margin: 0 auto; border: 2px solid #00FFFF; border-radius: 10px; box-shadow: 0 0 20px rgba(0,255,255,0.4); overflow: hidden;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxjZTEzcnI4ZWljeHl6cm9tcTN0eTVpbWxjejQyZnA1eWZwczNpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RWOkSHnf64F3WYb8CE/giphy.gif" width="100%" style="display: block;"/>
+    
+    <!-- Overlay text with cyberpunk styling -->
+    <div style="position: absolute; bottom: 20px; left: 0; width: 100%; text-align: center;">
+      <h1 style="color: #00FFFF; text-shadow: 0 0 15px rgba(0,255,255,0.8), 0 0 30px rgba(0,255,255,0.6); margin: 0; font-size: 28px;">
+        🦈 Swimming in the Deep Code 🦈
+      </h1>
+    </div>
+  </div>
 </div>
 
 <div align="center" style="background:#0A192F; padding:25px; margin:15px auto; max-width:800px; border:1px solid #00FFFF; box-shadow: 0 0 15px rgba(0,255,255,0.3); border-radius:10px;">
