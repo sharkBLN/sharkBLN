@@ -164,7 +164,7 @@ The best code makes devs weep.
     <tr>
       <td>
         <a href="https://github.com/sharkBLN/sharkBLN">
-          🦈 Hunting in sharkBLN - <i>2 minutes ago</i>
+          🦈 Hunting in sharkBLN - <i>Just now</i>
         </a>
       </td>
     </tr>
@@ -179,7 +179,7 @@ The best code makes devs weep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"While sharks have existed for 450 million years, SharkBLN's code is built to last even longer with proper documentation."</i>
+  <i>"SharkBLN can detect a security vulnerability from a mile away, just as sharks can detect blood in water from great distances."</i>
 </div>
 
 ## 🏆 Shark Achievements
