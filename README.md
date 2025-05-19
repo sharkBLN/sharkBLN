@@ -179,7 +179,7 @@ The best code makes devs weep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"Like sharks have electroreception, SharkBLN has a sixth sense for detecting inefficient algorithms."</i>
+  <i>"SharkBLN's keyboard has no ESC key - just like there's no escaping a determined shark!"</i>
 </div>
 
 ## 🏆 Shark Achievements
@@ -341,7 +341,7 @@ With patches and fixes to help you sleep.
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <p>
     <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"Like sharks have electroreception, SharkBLN has a sixth sense for detecting inefficient algorithms."</i>
+  <i>"SharkBLN's keyboard has no ESC key - just like there's no escaping a determined shark!"</i>
   </p>
 </div>
 
