@@ -1,12 +1,9 @@
 🦈 Just a shark 🦈
-I automate the boring and hunt bugs in the deep end.
-bashshark@cyberpunk:~$ sudo systemctl start shark-patrol  
-> Loading chaos engine…  
-> Scanning for code critters…  
-> ALERT: Bug spotted!  
-> Deploying smackdown…  
-> Status: Victory  
-"Your code never saw me coming."
+
+! @µ†øm@†e †h€ ß¤r!ñg @ñ∂ hµñ† ßµg$ !ñ †h€ ∂€€p €ñ∂ ß@$h$h@rk©¥ß€rþµñk~$ 
+$µ∂¤ $¥$†€m ©††l $†@r† $h@rkþ@†r¤l l¤@∂!ñg ©h@¤$ €ñg!ñ€ $©@ññ!ñg ƒ¤r ©¤∂€ 
+¢r!††€r$ @l€r† ßµg $p¤††€∂ ∂€þl¤¥!ñg $m@©k∂¤wñ $†@†µ$ ¥!©†¤r¥ ¥¤µr ©¤∂€ 
+ñ€v€r $@w m€ ©¤m!ñg
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@NilBerlin) 
