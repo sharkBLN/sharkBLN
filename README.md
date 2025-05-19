@@ -110,7 +110,7 @@ With patches and fixes to help you sleep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"Unlike most GitHub users, SharkBLN doesn't need coffee to code - the thrill of the hunt sustains it."</i>
+  <i>"SharkBLN's keyboard has no ESC key - just like there's no escaping a determined shark!"</i>
 </div>
 
 ## 🏆 Shark Achievements
