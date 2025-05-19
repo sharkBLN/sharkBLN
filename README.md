@@ -157,7 +157,7 @@ The best code makes devs weep.
     </tr>    <tr>
       <td>
         <a href="https://github.com/sharkBLN/sharkBLN">
-          🦈 Hunting in sharkBLN - <i>1 minute ago</i>
+          🦈 Hunting in sharkBLN - <i>Just now</i>
         </a>
       </td>
     </tr>
@@ -179,7 +179,7 @@ The best code makes devs weep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"Some sharks can lose up to 30,000 teeth in a lifetime. SharkBLN has squashed even more bugs!"</i>
+  <i>"Just like real sharks never sleep, SharkBLN's monitoring systems run 24/7."</i>
 </div>
 
 ## 🏆 Shark Achievements
@@ -341,7 +341,7 @@ With patches and fixes to help you sleep.
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <p>
     <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"Some sharks can lose up to 30,000 teeth in a lifetime. SharkBLN has squashed even more bugs!"</i>
+  <i>"Just like real sharks never sleep, SharkBLN's monitoring systems run 24/7."</i>
   </p>
 </div>
 
