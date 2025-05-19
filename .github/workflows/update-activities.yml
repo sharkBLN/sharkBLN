@@ -1,0 +1,175 @@
+name: Update Shark Activities
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Run every 6 hours
+  push:
+    branches:
+      - main
+  workflow_dispatch:  # Allow manual triggers
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: Update Shark Activities in README
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyGithub requests python-dateutil
+          
+      - name: Update Shark Activities
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python -c "
+import os
+import re
+import github
+import datetime
+from dateutil import parser
+from dateutil.relativedelta import relativedelta
+
+def time_ago(timestamp):
+    now = datetime.datetime.now(datetime.timezone.utc)
+    dt = parser.parse(timestamp)
+    
+    delta = relativedelta(now, dt)
+    
+    if delta.days == 0:
+        if delta.hours == 0:
+            if delta.minutes == 0:
+                return 'Just now'
+            elif delta.minutes == 1:
+                return '1 minute ago'
+            else:
+                return f'{delta.minutes} minutes ago'
+        elif delta.hours == 1:
+            return '1 hour ago'
+        else:
+            return f'{delta.hours} hours ago'
+    elif delta.days == 1:
+        return 'Yesterday'
+    elif delta.days < 7:
+        return f'{delta.days} days ago'
+    elif delta.days < 30:
+        weeks = delta.days // 7
+        return f'{weeks} week' + ('s' if weeks > 1 else '') + ' ago'
+    elif delta.months == 1:
+        return '1 month ago'
+    elif delta.months < 12:
+        return f'{delta.months} months ago'
+    else:
+        return f'{delta.years} year' + ('s' if delta.years > 1 else '') + ' ago'
+
+# Initialize GitHub API client
+g = github.Github(os.environ['GITHUB_TOKEN'])
+user = g.get_user('SharkBLN')
+
+# Get recent activities (limit to last 10 events)
+events = []
+for event in user.get_events()[:10]:
+    repo_name = event.repo.name
+    
+    # Format event details
+    if event.type == 'PushEvent':
+        action = f'Pushed commits to {repo_name}'
+    elif event.type == 'CreateEvent':
+        if event.payload.get('ref_type') == 'repository':
+            action = f'Created repository {repo_name}'
+        else:
+            ref_type = event.payload.get('ref_type', '')
+            ref = event.payload.get('ref', '')
+            action = f'Created {ref_type} {ref} in {repo_name}'
+    elif event.type == 'WatchEvent':
+        action = f'Starred {repo_name}'
+    elif event.type == 'ForkEvent':
+        action = f'Forked {repo_name}'
+    elif event.type == 'IssuesEvent':
+        issue_action = event.payload.get('action', '')
+        issue_number = event.payload.get('issue', {}).get('number', '')
+        action = f'{issue_action.capitalize()} issue #{issue_number} in {repo_name}'
+    elif event.type == 'PullRequestEvent':
+        pr_action = event.payload.get('action', '')
+        pr_number = event.payload.get('pull_request', {}).get('number', '')
+        action = f'{pr_action.capitalize()} pull request #{pr_number} in {repo_name}'
+    elif event.type == 'IssueCommentEvent':
+        issue_number = event.payload.get('issue', {}).get('number', '')
+        action = f'Commented on issue #{issue_number} in {repo_name}'
+    elif event.type == 'CommitCommentEvent':
+        action = f'Commented on commit in {repo_name}'
+    else:
+        action = f'Activity in {repo_name}'
+    
+    # Get timestamp and format it
+    timestamp = event.created_at.isoformat()
+    time_str = time_ago(timestamp)
+    
+    events.append({
+        'repo': repo_name,
+        'action': action,
+        'time': time_str,
+        'url': f'https://github.com/{repo_name}'
+    })
+
+# Read README content
+with open('README.md', 'r') as file:
+    content = file.read()
+
+# Generate new activities section
+activities_section = ''
+for i, event in enumerate(events[:3]):  # Use top 3 most recent activities
+    activities_section += f'''    <tr>
+      <td>
+        <a href=\"{event['url']}\">
+          🦈 {event['action']} - <i>{event['time']}</i>
+        </a>
+      </td>
+    </tr>
+'''
+
+# Replace the activities section in README
+pattern = r'(<tr>\s*<td><b>🌊 Recent Shark Sightings 🌊</b></td>\s*</tr>).*?</table>'
+replacement = r'\1' + activities_section + '</table>'
+new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+
+# Also update the Daily Shark Fact with a random fact
+shark_facts = [
+    '\"SharkBLN\'s code reviews are like a shark\'s bite - thorough and leaving a lasting impression.\"',
+    '\"Sharks can detect one part per million of blood in seawater. SharkBLN can detect one bug per million lines of code.\"',
+    '\"Like sharks that never stop swimming, SharkBLN never stops coding.\"',
+    '\"Some sharks can live for over 400 years. SharkBLN\'s code is built to last just as long.\"',
+    '\"Sharks have existed for over 450 million years. SharkBLN\'s repositories will exist for generations to come.\"',
+    '\"The great white shark can detect electromagnetic fields generated by animals. SharkBLN can detect inefficient code from miles away.\"',
+    '\"A shark\'s teeth are replaced throughout its lifetime. SharkBLN continuously upgrades and improves code repositories.\"'
+]
+
+import random
+new_fact = random.choice(shark_facts)
+fact_pattern = r'(<b>🦈 Daily Shark Fact 🦈</b><br>\s*<i>)\".*?(\"</i>)'
+fact_replacement = r'\1' + new_fact + r'\2'
+new_content = re.sub(fact_pattern, fact_replacement, new_content, flags=re.DOTALL)
+
+# Write updated content back to README
+with open('README.md', 'w') as file:
+    file.write(new_content)
+
+print('README updated with latest Shark Activities and a new Daily Shark Fact!')
+          "
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m '🦈 Update Shark Activities and Daily Fact'
+          git push
