@@ -179,7 +179,7 @@ The best code makes devs weep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"While sharks use their ampullae of Lorenzini, SharkBLN uses logging and monitoring to detect disturbances in the system."</i>
+  <i>"Just as the Great White can detect one drop of blood in 25 gallons of water, SharkBLN can spot one bug in 25,000 lines of code."</i>
 </div>
 
 ## 🏆 Shark Achievements
@@ -341,7 +341,7 @@ With patches and fixes to help you sleep.
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <p>
     <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"While sharks use their ampullae of Lorenzini, SharkBLN uses logging and monitoring to detect disturbances in the system."</i>
+  <i>"Just as the Great White can detect one drop of blood in 25 gallons of water, SharkBLN can spot one bug in 25,000 lines of code."</i>
   </p>
 </div>
 
