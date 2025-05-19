@@ -147,7 +147,7 @@ With patches and fixes to help you sleep.
   
   <!-- Daily Shark Fact - Updated by GitHub Actions -->
   <b>🦈 Daily Shark Fact 🦈</b><br>
-  <i>"While sharks have existed for 450 million years, SharkBLN's code is built to last even longer with proper documentation."</i>
+  <i>"Unlike most GitHub users, SharkBLN doesn't need coffee to code - the thrill of the hunt sustains it."</i>
 </div>
 
 ## 🏆 Shark Achievements
