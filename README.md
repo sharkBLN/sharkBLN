@@ -200,3 +200,173 @@ With patches and fixes to help you sleep.
   
   [![Shark Mood](https://img.shields.io/badge/Shark%20Mood-hungry%20for%20code-blue?style=for-the-badge)](https://github.com/SharkBLN)
 </div>
+
+<h2 align="center">🌊 The Shark Manifesto 🌊</h2>
+
+<div align="center">
+  <table align="center" border="0">
+    <tr>
+      <td>
+        <p align="center">
+          While you swim in shallow repos,<br>
+          I hunt bugs in the deep.<br>
+          Code that works? That's just the start.<br>
+          The best code makes devs weep.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
+
+<h2 align="center">📊 Hunting Statistics & Territories 📊</h2>
+
+<div align="center">
+  <table align="center" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=SharkBLN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00AEFF&icon_color=00FFFF&text_color=80FFEA&ring_color=00AEFF&count_private=true&include_all_commits=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharkBLN&theme=radical&hide_border=true&background=0D1117&stroke=00AEFF&ring=00AEFF&fire=00FFFF&currStreakNum=80FFEA&sideNums=80FFEA&currStreakLabel=00AEFF&sideLabels=00AEFF" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharkBLN&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00AEFF&text_color=80FFEA&langs_count=8&hide=html,css" />
+
+  <br>
+
+  <a href="https://github.com/SharkBLN">
+    <img src="https://github-profile-trophy.vercel.app/?username=SharkBLN&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" />
+  </a>
+</div>
+
+<h2 align="center">🌊 Shark Territory - Contribution Ocean 🌊</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SharkBLN&bg_color=0D1117&color=00AEFF&line=00FFFF&point=FFFFFF&area=true&area_color=00AEFF33&hide_border=true" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
+
+<h2 align="center">🏆 Shark Achievements</h2>
+
+<div align="center">
+  <table align="center" border="0">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Deep_Sea_Explorer-0D1117?style=for-the-badge&logoColor=00AEFF&labelColor=0D1117" />
+        <p>Made significant contributions to core repository code</p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Swift_Shark-0D1117?style=for-the-badge&logoColor=00AEFF&labelColor=0D1117" />
+        <p>Maintains multiple active repositories</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Territory_Guardian-0D1117?style=for-the-badge&logoColor=00AEFF&labelColor=0D1117" />
+        <p>Creates and maintains project branches</p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Night_Stalker-0D1117?style=for-the-badge&logoColor=00AEFF&labelColor=0D1117" />
+        <p>Active in late-night coding sessions</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
+
+<h2 align="center">🔮 The Prophecy 🔮</h2>
+
+<div align="center">
+  <table align="center" border="0">
+    <tr>
+      <td>
+        <p align="center">
+          They say on the darkest deployment night,<br>
+          When servers crash and tensions are tight,<br>
+          The SharkBLN appears from the deep,<br>
+          With patches and fixes to help you sleep.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
+
+<div align="center">
+  <h2>🌊 Recent Shark Sightings 🌊</h2>
+  
+  <!-- Dynamic shark activity tracker (updated by GitHub Actions) -->
+  <table align="center">
+    <tr>
+      <td><b>🌊 Recent Shark Sightings 🌊</b></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/sharkBLN/sharkBLN">
+          🦈 Hunting in sharkBLN - <i>Just now</i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/sharkBLN/sharkBLN">
+          🦈 Hunting in sharkBLN - <i>Just now</i>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/sharkBLN/sharkBLN">
+          🦈 Hunting in sharkBLN - <i>Just now</i>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Daily Shark Fact - Updated by GitHub Actions -->
+  <p>
+    <b>🦈 Daily Shark Fact 🦈</b><br>
+    <i>"SharkBLN's git branches are like shark fins - always visible above the surface, warning others of activity below."</i>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,100:0d47a1&height=120&section=footer&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=80" width="100%"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/SharkBLN">
+    <img src="https://profile-counter.glitch.me/SharkBLN/count.svg" />
+  </a>
+  
+  <br><br>
+  
+  <a href="https://github.com/SharkBLN">
+    <img src="https://img.shields.io/badge/Shark%20Mood-hungry%20for%20code-blue?style=for-the-badge&color=00AEFF&labelColor=0D1117" />
+  </a>
+  
+  <p>
+    <i>The ocean is dark and full of terrors, but my code is darker.</i>
+  </p>
+  
+  <p>
+    🦈 <b>Swim at your own risk</b> 🦈
+  </p>
+</div>
