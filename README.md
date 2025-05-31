@@ -230,7 +230,7 @@ alias normal="command not found"
 
 <div align="center">
 
-[![Nil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=011126&title_color=F27405&text_color=F25C05&icon_color=A62103)](https://github.com/YOUR_USERNAME)
+[![Nil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharkBLN&show_icons=true&theme=dark&hide_border=true&bg_color=011126&title_color=F27405&text_color=F25C05&icon_color=A62103)](https://github.com/sharkBLN)
 
 </div>
 
