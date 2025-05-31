@@ -1,22 +1,22 @@
-# [██] KERNEL_PANIC → `./nil --dark-mode --no-sleep` [██]
+# ▇▅▂ KERNEL_PANIC → `./nil --booze-mode --buzz-level=max` ▂▅▇
 
 ```ascii
 ┌─[nil@kali-sanctuary]─[~/reality.exe]
 └──╼ $ whoami
 ███╗   ██╗██╗██╗     
-████╗  ██║██║██║     ░░▒▒▓▓██ G̴L̷I̸T̴C̶H̵ ██▓▓▒▒░░
+████╗  ██║██║██║     ▇▅▂ G̴L̷I̸T̴C̶H̵ ▂▅▇
 ██╔██╗ ██║██║██║     
-██║╚██╗██║██║██║     ▓▓▒▒░░ S̶Y̸S̴T̴E̵M̷ ░░▒▒▓▓
+██║╚██╗██║██║██║     ▂▅▇ S̶Y̸S̴T̴E̵M̷ ▇▅▂
 ██║ ╚████║██║███████╗
 ╚═╝  ╚═══╝╚═╝╚══════╝
 > Audio-Visual Necromancer | Terminal Ritualist | Shader Demon
 ```
 
-```
-░░▒▒▓▓████████████████████████████████████████████▓▓▒▒░░
-▒▒▓▓██ [H4CK3D] UNAUTHORIZED ACCESS DETECTED ██▓▓▒▒
-▓▓████████████████████████████████████████████████▓▓
-```
+<div align="center">
+
+▇▅▂▁▂▅▇▅▂▁ **UNAUTHORIZED ACCESS DETECTED** ▁▂▅▇▅▂▁▂▅▇
+
+</div>
 
 > ```bash
 > [nil@void ~]$ echo "Reality.exe has encountered a buffer overflow. Embracing chaos..."
@@ -24,21 +24,40 @@
 > [nil@void ~]$ sudo rm -rf /normality/*
 > ```
 
-## [█] `/proc/nil/status` → SYSTEM_DIAGNOSTICS
+## ▇ `/proc/nil/status` → SYSTEM_DIAGNOSTICS
 
-```
-╔══════════════════════════════════════════════════════╗
-║  <linux>   Host OS: Kali Linux (pentesting reality) ║
-║  <brain>   CPU Arch: ADHD-driven multi-thread chaos ║
-║    ♪      Clock Speed: 140 BPM | Techno-sync exec   ║
-║   X_X     Default Shell: bash | Daemon summoner     ║
-║   ~~~     Current State: Drowning in FFT waveforms  ║
-║   (*)     Kernel Module: GPU torture via math magic ║
-║  <dog>    Watchdog: picco.service (bulldog daemon)  ║
-╚══════════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td width="120"><strong>🔥 Host OS</strong></td>
+<td><code>Kali Linux</code> (because pentesting reality is a hobby)</td>
+</tr>
+<tr>
+<td><strong>🧠 CPU Arch</strong></td>
+<td><code>ADHD-driven multi-threaded chaos engine</code></td>
+</tr>
+<tr>
+<td><strong>⚡ Clock Speed</strong></td>
+<td><code>140 BPM | Techno-synchronized code execution</code></td>
+</tr>
+<tr>
+<td><strong>💀 Default Shell</strong></td>
+<td><code>bash | Been summoning daemons since $ORIGIN</code></td>
+</tr>
+<tr>
+<td><strong>🌀 Current State</strong></td>
+<td><code>Drowning in FFT waveforms & fragment shader hell</code></td>
+</tr>
+<tr>
+<td><strong>🔮 Kernel Module</strong></td>
+<td><code>GPU torture specialist via mathematical black magic</code></td>
+</tr>
+<tr>
+<td><strong>🐕 Watchdog</strong></td>
+<td><code>picco.service (Bulldog-based security daemon)</code></td>
+</tr>
+</table>
 
-## [●] `ps aux | grep nil` → ACTIVE_RITUALS
+## ▅ `ps aux | grep nil` → ACTIVE_RITUALS
 
 ```
   PID   COMMAND                        STATUS
@@ -51,14 +70,15 @@
   1342  penetration_test_reality    →  [SCANNING]
 ```
 
-     @ Summoning colors from sound waves
-     # Because default prompts trigger PTSD  
-   <-> Fragment programs making GPUs question existence
-     * Pixel bending since epoch + caffeine
-   <3  Finding signal in digital noise
-   [?] nmap -sS universe.local --chaos-mode
+**▂ Currently Running Processes:**
+- `@` Summoning colors from sound waves
+- `#` Because default prompts trigger PTSD  
+- `<->` Fragment programs making GPUs question existence
+- `*` Pixel bending since epoch + caffeine
+- `<3` Finding signal in digital noise
+- `[?]` nmap -sS universe.local --chaos-mode
 
-## [■] `cat /etc/nil/arsenal.conf` → TECH_STACK
+## ▇ `cat /etc/nil/arsenal.conf` → TECH_STACK
 
 ```bash
 #!/bin/bash
@@ -75,7 +95,39 @@ declare -A WEAPONS=(
 echo "Locked and loaded. May the daemons be with you."
 ```
 
-## [▪] `~/.nilrc` → RUNTIME_PHILOSOPHY
+## ▅ `ls -la projects/` → PROJECT_ARSENAL
+
+### **[CLASSIFIED] audio_reactive_terminal/**
+Terminal environment that synchronizes with audio input. Every keystroke generates waveforms, every compilation creates visual chaos. Reality.exe not included.
+
+![BASH](https://img.shields.io/badge/BASH-011126?style=for-the-badge&logo=gnu-bash&logoColor=F27405) ![FFmpeg](https://img.shields.io/badge/FFmpeg-F25C05?style=for-the-badge&logo=ffmpeg&logoColor=011126) ![ALSA](https://img.shields.io/badge/ALSA-A62103?style=for-the-badge&logoColor=F27405) ![Cursed](https://img.shields.io/badge/Cursed-730C02?style=for-the-badge&logoColor=F27405)
+
+### **[UNSTABLE] gpu_torture_shaders/**
+Fragment shaders that make GPUs question their existence. Mathematical torture disguised as art. Warning: May cause spontaneous GPU combustion.
+
+![GLSL](https://img.shields.io/badge/GLSL-F27405?style=for-the-badge&logoColor=011126) ![OpenGL](https://img.shields.io/badge/OpenGL-730C02?style=for-the-badge&logoColor=F25C05) ![Black Magic](https://img.shields.io/badge/Black_Magic-A62103?style=for-the-badge&logoColor=F27405) ![GPU Tears](https://img.shields.io/badge/GPU_Tears-011126?style=for-the-badge&logoColor=F27405)
+
+### **[CHAOTIC] terminal_ritual_scripts/**
+Collection of bash scripts that automate the unautomatable. Each script is a digital incantation that bends reality to my will. Side effects may include kernel panic.
+
+![BASH](https://img.shields.io/badge/BASH-011126?style=for-the-badge&logo=gnu-bash&logoColor=F27405) ![AWK](https://img.shields.io/badge/AWK-F25C05?style=for-the-badge&logoColor=011126) ![SED](https://img.shields.io/badge/SED-730C02?style=for-the-badge&logoColor=F27405) ![Witchcraft](https://img.shields.io/badge/Witchcraft-A62103?style=for-the-badge&logoColor=F27405)
+
+### **[FORBIDDEN] buffer_overflow_poetry/**
+Low-level experiments that dance on the edge of segmentation faults. Memory leaks as performance art. Undefined behavior as a lifestyle choice.
+
+![C++](https://img.shields.io/badge/C++-F27405?style=for-the-badge&logo=cplusplus&logoColor=011126) ![Assembly](https://img.shields.io/badge/Assembly-730C02?style=for-the-badge&logoColor=F25C05) ![Danger](https://img.shields.io/badge/Danger-A62103?style=for-the-badge&logoColor=F27405) ![YOLO](https://img.shields.io/badge/YOLO-F25C05?style=for-the-badge&logoColor=011126)
+
+### **[EXPERIMENTAL] kali_customization_suite/**
+Complete Kali Linux customization toolkit. Transforms boring default environments into digital shrines worthy of techno-esotericism. Picco-approved.
+
+![Linux](https://img.shields.io/badge/Linux-011126?style=for-the-badge&logo=linux&logoColor=F27405) ![Dotfiles](https://img.shields.io/badge/Dotfiles-A62103?style=for-the-badge&logoColor=F27405) ![i3wm](https://img.shields.io/badge/i3wm-F25C05?style=for-the-badge&logoColor=011126) ![Aesthetics](https://img.shields.io/badge/Aesthetics-730C02?style=for-the-badge&logoColor=F27405)
+
+### **[CURSED] audio_visualization_demons/**
+Real-time audio analysis that summons visual entities from sound waves. Each beat drop spawns new geometric nightmares. 140 BPM optimized.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F27405?style=for-the-badge&logo=javascript&logoColor=011126) ![Web Audio API](https://img.shields.io/badge/Web_Audio_API-011126?style=for-the-badge&logoColor=F27405) ![TouchDesigner](https://img.shields.io/badge/TouchDesigner-730C02?style=for-the-badge&logoColor=F25C05) ![Techno Magic](https://img.shields.io/badge/Techno_Magic-A62103?style=for-the-badge&logoColor=F27405)
+
+## ▂ `~/.nilrc` → RUNTIME_PHILOSOPHY
 
 ```bash
 # ~/.nilrc - Core beliefs and kernel parameters
@@ -98,22 +150,18 @@ alias normal="command not found"
  [*] Documentation = future-me's problem (sorry, future-me)  
 ```
 
-## [chart] `htop` → PERFORMANCE_METRICS
+## ▇ `htop` → PERFORMANCE_METRICS
 
-```
-┌─ NIL SYSTEM MONITOR ──────────────────────────────────────┐
-│ Process               │ CPU% │ Memory │ Status            │
-├───────────────────────┼──────┼────────┼───────────────────┤
-│ (moon) midnight_commits│ 87%  │ HIGH   │ [OPTIMAL]         │
-│ (coffee) caffeine_daemon│100% │ CRIT   │ [REQUIRED]        │
-│    ♫    techno_sync   │ 140  │ LOCK   │ [SYNCHRONIZED]    │
-│ <bug>   bug_factory   │ ???  │ MISC   │ [FEATURE_NOT_BUG] │
-│  ^^^    gpu_torture   │ HOT  │ SWAP   │ [EXPECTED]        │
-│ <dog>   picco_watchdog│ LOW  │ CUTE   │ [SUPERVISING]     │
-└───────────────────────┴──────┴────────┴───────────────────┘
-```
+| Process | CPU% | Memory | Status |
+|---------|------|--------|--------|
+| <kbd>🌙 midnight_commits</kbd> | 87% | HIGH | `OPTIMAL` |
+| <kbd>☕ caffeine_daemon</kbd> | 100% | CRIT | `REQUIRED` |
+| <kbd>♫ techno_sync</kbd> | 140 | LOCK | `SYNCHRONIZED` |
+| <kbd>🐛 bug_factory</kbd> | ??? | MISC | `FEATURE_NOT_BUG` |
+| <kbd>🔥 gpu_torture</kbd> | HOT | SWAP | `EXPECTED` |
+| <kbd>🐕 picco_watchdog</kbd> | LOW | CUTE | `SUPERVISING` |
 
-## [██] `tail -f /var/log/nil/current_obsession.log` 
+## ▅ `tail -f /var/log/nil/current_obsession.log` 
 
 ```
 [2025-05-31 03:42:13] INFO: Building terminal that reacts to audio in real-time
@@ -146,22 +194,26 @@ alias normal="command not found"
 < - Ancient Techno Proverb               >
  -----------------------------------------
         \   ^__^
-         \  (oo)\_______  ░░▒▒ G̸L̵I̶T̸C̷H̴ ▒▒░░
+         \  (oo)\_______  ▇▅▂ G̸L̵I̶T̸C̷H̴ ▂▅▇
             (__)\       )\/\
                 ||----w |
                 ||     ||
 ```
 
-```
-▓▓██ E̷R̴R̶O̷R̵:̸ ̴R̶E̵A̴L̸I̷T̴Y̵.̸E̷X̶E̴ ̵N̶O̷T̸ ̴F̷O̵U̶N̷D̵ ██▓▓
-░░▒▒▓▓ SWITCHING TO CHAOS.DLL ▓▓▒▒░░
-```
+<div align="center">
+
+▇▅▂ E̷R̴R̶O̷R̵:̸ ̴R̶E̵A̴L̸I̷T̴Y̵.̸E̷X̶E̴ ̵N̶O̷T̸ ̴F̷O̵U̶N̷D̵ ▂▅▇
+▂▅▇ SWITCHING TO CHAOS.DLL ▇▅▂
+
+</div>
 
 ---
 
-```
-░░▒▒▓▓ C̶O̵N̷N̷E̸C̴T̸I̷O̶N̵ ̸S̴T̵A̷B̵L̶E̶ ▓▓▒▒░░
-```
+<div align="center">
+
+▇▅▂ C̶O̵N̷N̷E̸C̴T̸I̷O̶N̵ ̸S̴T̵A̷B̵L̶E̶ ▂▅▇
+
+</div>
 
 ## ^ `systemctl status nil.service` → CURRENT_UPTIME
 
@@ -176,7 +228,11 @@ alias normal="command not found"
            └─ 1339 /usr/bin/picco-watchdog --good-boy-mode
 ```
 
-[![Nil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e)](https://github.com/YOUR_USERNAME)
+<div align="center">
+
+[![Nil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=011126&title_color=F27405&text_color=F25C05&icon_color=A62103)](https://github.com/YOUR_USERNAME)
+
+</div>
 
 ```bash
 [nil@void ~]$ echo "Profile loaded successfully. May your code compile and your shaders render."
@@ -191,8 +247,10 @@ Warning: reality.service failed to restart. Continuing in chaos mode.
 ¯\_(ツ)_/¯ Reality is overrated anyway.
 [nil@void ~]$ exit
 # Connection to nil@reality terminated.
-
-░░▒▒▓▓████████████████████████████████████████████▓▓▒▒░░
-▒▒▓▓██ [ACCESS_TERMINATED] SEE YOU IN THE MATRIX ██▓▓▒▒  
-▓▓████████████████████████████████████████████████████▓▓
 ```
+
+<div align="center">
+
+▇▅▂▁▂▅▇▅▂▁ **[ACCESS_TERMINATED] SEE YOU IN THE MATRIX** ▁▂▅▇▅▂▁▂▅▇
+
+</div>
