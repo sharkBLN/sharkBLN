@@ -1,29 +1,198 @@
-🦈 Just a shark 🦈
+# [██] KERNEL_PANIC → `./nil --dark-mode --no-sleep` [██]
 
-! @µ†øm@†e †h€ ß¤r!ñg @ñ∂ hµñ† ßµg$ !ñ †h€ ∂€€p €ñ∂ ß@$h$h@rk©¥ß€rþµñk~$ 
-$µ∂¤ $¥$†€m ©††l $†@r† $h@rkþ@†r¤l l¤@∂!ñg ©h@¤$ €ñg!ñ€ $©@ññ!ñg ƒ¤r ©¤∂€ 
-¢r!††€r$ @l€r† ßµg $p¤††€∂ ∂€þl¤¥!ñg $m@©k∂¤wñ $†@†µ$ ¥!©†¤r¥ ¥¤µr ©¤∂€ 
-ñ€v€r $@w m€ ©¤m!ñg
+```ascii
+┌─[nil@kali-sanctuary]─[~/reality.exe]
+└──╼ $ whoami
+███╗   ██╗██╗██╗     
+████╗  ██║██║██║     ░░▒▒▓▓██ G̴L̷I̸T̴C̶H̵ ██▓▓▒▒░░
+██╔██╗ ██║██║██║     
+██║╚██╗██║██║██║     ▓▓▒▒░░ S̶Y̸S̴T̴E̵M̷ ░░▒▒▓▓
+██║ ╚████║██║███████╗
+╚═╝  ╚═══╝╚═╝╚══════╝
+> Audio-Visual Necromancer | Terminal Ritualist | Shader Demon
+```
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@NilBerlin) 
-[![Description](https://media.giphy.com/media/AyanwLBF8y1uOnQWXc/giphy.gif)](https://media.giphy.com/media/AyanwLBF8y1uOnQWXc/giphy.gif)
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![Description](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJpaTN3YW9vN2FtOHI0YWU3MGt6czluOGcyanJ6c2U2dmNnMTRjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGL1JTqMqFdiPHG/giphy.gif)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sharkBLN&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sharkBLN&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharkBLN&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+```
+░░▒▒▓▓████████████████████████████████████████████▓▓▒▒░░
+▒▒▓▓██ [H4CK3D] UNAUTHORIZED ACCESS DETECTED ██▓▓▒▒
+▓▓████████████████████████████████████████████████▓▓
+```
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+> ```bash
+> [nil@void ~]$ echo "Reality.exe has encountered a buffer overflow. Embracing chaos..."
+> Reality.exe has encountered a buffer overflow. Embracing chaos...
+> [nil@void ~]$ sudo rm -rf /normality/*
+> ```
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sharkBLN&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+## [█] `/proc/nil/status` → SYSTEM_DIAGNOSTICS
+
+```
+╔══════════════════════════════════════════════════════╗
+║  <linux>   Host OS: Kali Linux (pentesting reality) ║
+║  <brain>   CPU Arch: ADHD-driven multi-thread chaos ║
+║    ♪      Clock Speed: 140 BPM | Techno-sync exec   ║
+║   X_X     Default Shell: bash | Daemon summoner     ║
+║   ~~~     Current State: Drowning in FFT waveforms  ║
+║   (*)     Kernel Module: GPU torture via math magic ║
+║  <dog>    Watchdog: picco.service (bulldog daemon)  ║
+╚══════════════════════════════════════════════════════╝
+```
+
+## [●] `ps aux | grep nil` → ACTIVE_RITUALS
+
+```
+  PID   COMMAND                        STATUS
+------  -----------------------------  -----------
+  1337  audio_visual_necromancy.sh  →  [RUNNING]
+  1338  terminal_aesthetics_cult    →  [ACTIVE] 
+  1339  shader_experiments.exe      →  [UNSTABLE]
+  1340  realtime_buffer_magic       →  [CAFFEINATED]
+  1341  pattern_recognition_void    →  [SEARCHING]
+  1342  penetration_test_reality    →  [SCANNING]
+```
+
+     @ Summoning colors from sound waves
+     # Because default prompts trigger PTSD  
+   <-> Fragment programs making GPUs question existence
+     * Pixel bending since epoch + caffeine
+   <3  Finding signal in digital noise
+   [?] nmap -sS universe.local --chaos-mode
+
+## [■] `cat /etc/nil/arsenal.conf` → TECH_STACK
+
+```bash
+#!/bin/bash
+# Nil's Digital Weaponry Configuration
+
+declare -A WEAPONS=(
+    [languages]="Bash GLSL JavaScript Python C++ Assembly"
+    [dark_arts]="Audio_Processing Shader_Sorcery CLI_Mysticism"
+    [environments]="Terminal TouchDesigner Ableton_Live VSCode Kali_Linux"
+    [forbidden_magic]="FFmpeg_Incantations OpenGL_Summoning Buffer_Overflow_Poetry"
+    [hardware_torture]="GPU_Melting CPU_Overclocking RAM_Exhaustion"
+)
+
+echo "Locked and loaded. May the daemons be with you."
+```
+
+## [▪] `~/.nilrc` → RUNTIME_PHILOSOPHY
+
+```bash
+# ~/.nilrc - Core beliefs and kernel parameters
+export MOTTO="Every commit is entropy against the ordered universe"
+export DEBUG_MODE="always_on"
+export SLEEP_SCHEDULE="undefined"
+export COFFEE_DEPENDENCY="CRITICAL"
+
+# Life patches
+alias reality="echo 'Feature not implemented'"
+alias sanity="sudo systemctl stop sanity.service"
+alias normal="command not found"
+```
+
+**Fundamental Laws:**
+```
+ [*] Code without bass drops lacks spiritual depth  
+ [*] If terminal doesn't spark existential dread → misconfigured  
+ [*] Every shader should question >= 3 laws of physics  
+ [*] Documentation = future-me's problem (sorry, future-me)  
+```
+
+## [chart] `htop` → PERFORMANCE_METRICS
+
+```
+┌─ NIL SYSTEM MONITOR ──────────────────────────────────────┐
+│ Process               │ CPU% │ Memory │ Status            │
+├───────────────────────┼──────┼────────┼───────────────────┤
+│ (moon) midnight_commits│ 87%  │ HIGH   │ [OPTIMAL]         │
+│ (coffee) caffeine_daemon│100% │ CRIT   │ [REQUIRED]        │
+│    ♫    techno_sync   │ 140  │ LOCK   │ [SYNCHRONIZED]    │
+│ <bug>   bug_factory   │ ???  │ MISC   │ [FEATURE_NOT_BUG] │
+│  ^^^    gpu_torture   │ HOT  │ SWAP   │ [EXPECTED]        │
+│ <dog>   picco_watchdog│ LOW  │ CUTE   │ [SUPERVISING]     │
+└───────────────────────┴──────┴────────┴───────────────────┘
+```
+
+## [██] `tail -f /var/log/nil/current_obsession.log` 
+
+```
+[2025-05-31 03:42:13] INFO: Building terminal that reacts to audio in real-time
+[2025-05-31 03:42:14] WARN: Normal IDEs are existential nightmares
+[2025-05-31 03:42:15] DEBUG: Every keystroke generates waveforms
+[2025-05-31 03:42:16] CRIT: Every compilation creates visual chaos
+[2025-05-31 03:42:17] INFO: It's either genius or madness
+[2025-05-31 03:42:18] FATAL: Probably both. Definitely both.
+```
+
+## <3 `dmesg | tail` → KERNEL_MESSAGES
+
+```
+[42069.420] nil: Started debugging a shader
+[42069.421] nil: Ended up questioning nature of reality  
+[42069.422] nil: Classic Tuesday. Nothing unusual here.
+[42069.423] picco.ko: Woof! Human needs sleep.service restart
+[42069.424] system: WARNING - User sanity levels below threshold
+[42069.425] nil: Perfect. That's when the best code happens.
+```
+
+## (*) `fortune | cowsay` → DIGITAL_WISDOM
+
+```
+ _________________________________________
+< "I don't always code at 3 AM, but     >
+< when I do, I accidentally summon       >
+< ancient GPU demons and my terminal     >
+< starts speaking in hexadecimal."       >
+< - Ancient Techno Proverb               >
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______  ░░▒▒ G̸L̵I̶T̸C̷H̴ ▒▒░░
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+```
+▓▓██ E̷R̴R̶O̷R̵:̸ ̴R̶E̵A̴L̸I̷T̴Y̵.̸E̷X̶E̴ ̵N̶O̷T̸ ̴F̷O̵U̶N̷D̵ ██▓▓
+░░▒▒▓▓ SWITCHING TO CHAOS.DLL ▓▓▒▒░░
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sharkBLN&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
+░░▒▒▓▓ C̶O̵N̷N̷E̸C̴T̸I̷O̶N̵ ̸S̴T̵A̷B̵L̶E̶ ▓▓▒▒░░
+```
 
+## ^ `systemctl status nil.service` → CURRENT_UPTIME
+
+```bash
+● nil.service - Techno-Esotertic Code Wizard
+   Loaded: loaded (/etc/systemd/system/chaos.service; enabled)
+   Active: active (caffeinated) since boot
+   Memory: definitely too much
+   CGroup: /system.slice/nil.service
+           ├─ 1337 /usr/bin/terminal-ritual --audio-reactive
+           ├─ 1338 /usr/bin/shader-daemon --gpu-torture-mode
+           └─ 1339 /usr/bin/picco-watchdog --good-boy-mode
+```
+
+[![Nil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e)](https://github.com/YOUR_USERNAME)
+
+```bash
+[nil@void ~]$ echo "Profile loaded successfully. May your code compile and your shaders render."
+Profile loaded successfully. May your code compile and your shaders render.
+[nil@void ~]$ ./picco --status
+STATUS: Still the goodest boy. Still judging your coding decisions.
+[nil@void ~]$ sudo systemctl restart reality.service
+[sudo] password for nil: ********
+Restarting reality.service...
+Warning: reality.service failed to restart. Continuing in chaos mode.
+[nil@void ~]$ echo "¯\_(ツ)_/¯ Reality is overrated anyway."
+¯\_(ツ)_/¯ Reality is overrated anyway.
+[nil@void ~]$ exit
+# Connection to nil@reality terminated.
+
+░░▒▒▓▓████████████████████████████████████████████▓▓▒▒░░
+▒▒▓▓██ [ACCESS_TERMINATED] SEE YOU IN THE MATRIX ██▓▓▒▒  
+▓▓████████████████████████████████████████████████████▓▓
+```
