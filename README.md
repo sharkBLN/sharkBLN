@@ -1,23 +1,23 @@
-# 🌈 NIL DIGITAL EMPIRE 🌈
+# <div align="center"><span style="color:#e40303">🌈</span> <span style="color:#e40303">N</span><span style="color:#ff8c00">I</span><span style="color:#ffed00">L</span> <span style="color:#008018">D</span><span style="color:#0078d4">I</span><span style="color:#732982">G</span><span style="color:#e40303">I</span><span style="color:#ff8c00">T</span><span style="color:#ffed00">A</span><span style="color:#008018">L</span> <span style="color:#0078d4">E</span><span style="color:#732982">M</span><span style="color:#e40303">P</span><span style="color:#ff8c00">I</span><span style="color:#ffed00">R</span><span style="color:#008018">E</span> <span style="color:#732982">🌈</span></div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sharkBLN/banners/main/rainbow-terminal-banner.svg" width="100%" alt="Rainbow Terminal Banner"/>
+</div>
+
 ```
-███╗   ██╗██╗██╗         ██████╗ ██╗ ██████╗ ██╗████████╗ █████╗ ██╗     
-████╗  ██║██║██║         ██╔══██╗██║██╔════╝ ██║╚══██╔══╝██╔══██╗██║     
-██╔██╗ ██║██║██║         ██║  ██║██║██║  ███╗██║   ██║   ███████║██║     
-██║╚██╗██║██║██║         ██║  ██║██║██║   ██║██║   ██║   ██╔══██║██║     
-██║ ╚████║██║███████╗    ██████╔╝██║╚██████╔╝██║   ██║   ██║  ██║███████╗
-╚═╝  ╚═══╝╚═╝╚══════╝    ╚═════╝ ╚═╝ ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
-                                                                         
-███████╗███╗   ███╗██████╗ ██╗██████╗ ███████╗
-██╔════╝████╗ ████║██╔══██╗██║██╔══██╗██╔════╝
-█████╗  ██╔████╔██║██████╔╝██║██████╔╝█████╗  
-██╔══╝  ██║╚██╔╝██║██╔═══╝ ██║██╔══██╗██╔══╝  
-███████╗██║ ╚═╝ ██║██║     ██║██║  ██║███████╗
-╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║ 🏳️‍🌈♪♫♪ NIL DIGITAL EMPIRE - PRIDE EDITION ♪♫♪🏳️‍🌈                        ║  
+║ ▸═══► LOVE IS LOVE • ONE HUMAN RACE • EQUALITY FOR ALL ◄═══◂             ║
+║ 🌈▲▼▲ BERLIN • TERMINAL WIZARD • 140 BPM TECHNO ▲▼▲🌈                   ║
+║ ♦♦♦ AUDIO NECROMANCER • CYBERPUNK AESTHETICS ♦♦♦                        ║
+║ ≋≋≋ SPREADING RAINBOW VIBES ACROSS THE DIGITAL REALM ≋≋≋               ║
+║ ★☆★ HAPPY PRIDE! EVERY HUMAN DESERVES LOVE & RESPECT ★☆★               ║
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-### 🎵 Audio Necromancer • 💻 Terminal Wizard • 🌈 Digital Equality Advocate
+### <span style="color:#e40303">🎵</span> <span style="color:#ff8c00">A</span><span style="color:#ffed00">u</span><span style="color:#008018">d</span><span style="color:#0078d4">i</span><span style="color:#732982">o</span> <span style="color:#e40303">N</span><span style="color:#ff8c00">e</span><span style="color:#ffed00">c</span><span style="color:#008018">r</span><span style="color:#0078d4">o</span><span style="color:#732982">m</span><span style="color:#e40303">a</span><span style="color:#ff8c00">n</span><span style="color:#ffed00">c</span><span style="color:#008018">e</span><span style="color:#0078d4">r</span> • <span style="color:#732982">💻</span> <span style="color:#e40303">T</span><span style="color:#ff8c00">e</span><span style="color:#ffed00">r</span><span style="color:#008018">m</span><span style="color:#0078d4">i</span><span style="color:#732982">n</span><span style="color:#e40303">a</span><span style="color:#ff8c00">l</span> <span style="color:#ffed00">W</span><span style="color:#008018">i</span><span style="color:#0078d4">z</span><span style="color:#732982">a</span><span style="color:#e40303">r</span><span style="color:#ff8c00">d</span> • <span style="color:#ffed00">🌈</span> <span style="color:#008018">E</span><span style="color:#0078d4">q</span><span style="color:#732982">u</span><span style="color:#e40303">a</span><span style="color:#ff8c00">l</span><span style="color:#ffed00">i</span><span style="color:#008018">t</span><span style="color:#0078d4">y</span> <span style="color:#732982">A</span><span style="color:#e40303">d</span><span style="color:#ff8c00">v</span><span style="color:#ffed00">o</span><span style="color:#008018">c</span><span style="color:#0078d4">a</span><span style="color:#732982">t</span><span style="color:#e40303">e</span>
 
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/nil-official)
 [![Beatport](https://img.shields.io/badge/Beatport-FF6900?style=for-the-badge&logo=beatport&logoColor=white)](https://beatport.com/artist/nil)
@@ -28,251 +28,220 @@
 
 ---
 
-## 🚀 Current Status
+## <div align="center">🏳️‍🌈 <span style="color:#e40303">H</span><span style="color:#ff8c00">A</span><span style="color:#ffed00">P</span><span style="color:#008018">P</span><span style="color:#0078d4">Y</span> <span style="color:#732982">P</span><span style="color:#e40303">R</span><span style="color:#ff8c00">I</span><span style="color:#ffed00">D</span><span style="color:#008018">E</span> <span style="color:#0078d4">M</span><span style="color:#732982">O</span><span style="color:#e40303">N</span><span style="color:#ff8c00">T</span><span style="color:#ffed00">H</span> 🏳️‍🌈</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sharkBLN/banners/main/pride-wave.svg" width="100%" alt="Pride Wave"/>
+</div>
+
+### 💖 <span style="color:#e40303">O</span><span style="color:#ff8c00">N</span><span style="color:#ffed00">E</span> <span style="color:#008018">H</span><span style="color:#0078d4">U</span><span style="color:#732982">M</span><span style="color:#e40303">A</span><span style="color:#ff8c00">N</span> <span style="color:#ffed00">R</span><span style="color:#008018">A</span><span style="color:#0078d4">C</span><span style="color:#732982">E</span> 💖
+
+<div align="center">
 
 ```bash
-nil@terminal:~$ whoami
-Audio Necromancer | Terminal Hacker | Digital Equality Advocate
+#!/bin/bash
+# Pride Protocol v2025.06 - MAXIMUM RAINBOW EDITION
 
-nil@terminal:~$ cat /proc/status
-┌─────────────────────────────────────────────────────────┐
-│ 🎵 Currently Playing: 140 BPM Techno Frequencies       │
-│ 🌊 Streaming: Underground Berlin Scene                 │
-│ 💻 Coding: Terminal-Aesthetic Web Portals              │
-│ 🏳️‍🌈 Advocating: One Human Race, Love is Love           │
-│ ⚡ Status: Reality.exe running smoothly                │
-│ 🎯 Location: Berlin, Germany                           │
-└─────────────────────────────────────────────────────────┘
+echo "🏳️‍🌈 LOVE IS LOVE, ALWAYS AND FOREVER 🏳️‍🌈"
+echo "There is only ONE beautiful, diverse human race on Earth"
+echo "Every person deserves love, respect, and equal treatment"
+echo "Your identity is valid, your love is valid, YOU are valid"
 
-nil@terminal:~$ echo $MISSION
+export HUMAN_VALUE="infinite"
+export LOVE_STATUS="universal" 
+export EQUALITY_LEVEL="100%"
+export PRIDE_MODE="always_active"
+export RAINBOW_VIBES="maximum"
+
+systemctl enable love.service
+systemctl enable respect.service
+systemctl enable equality.service
+systemctl enable pride.service
+
+echo "🌈 Spreading rainbow love across the digital realm 🌈"
+```
+
+**Whether you're straight, gay, lesbian, bi, trans, pan, ace, non-binary, or anywhere on the beautiful spectrum of human identity - you are loved, you are valid, and you deserve equal treatment. That's not politics, that's basic human decency.** 💖✨
+
+</div>
+
+---
+
+## 🚀 <span style="color:#e40303">C</span><span style="color:#ff8c00">u</span><span style="color:#ffed00">r</span><span style="color:#008018">r</span><span style="color:#0078d4">e</span><span style="color:#732982">n</span><span style="color:#e40303">t</span> <span style="color:#ff8c00">S</span><span style="color:#ffed00">t</span><span style="color:#008018">a</span><span style="color:#0078d4">t</span><span style="color:#732982">u</span><span style="color:#e40303">s</span>
+
+```bash
+sharkBLN@rainbow-terminal:~$ whoami
+🌈 Rainbow Audio Necromancer | Terminal Pride Wizard | Digital Equality Champion
+
+sharkBLN@rainbow-terminal:~$ cat /proc/pride-status
+┌───────────────────────────────────────────────────────────────┐
+│ 🏳️‍🌈 Pride Mode: MAXIMUM RAINBOW ACTIVATED                      │
+│ 🎵 Currently Playing: 140 BPM Pride Techno Frequencies      │
+│ 🌊 Streaming: Berlin Underground Pride Scene                │
+│ 💻 Coding: Rainbow Terminal-Aesthetic Web Portals           │
+│ 🏳️‍🌈 Advocating: One Human Race, Love is Love                 │
+│ ⚡ Status: Reality.exe running with rainbow.dll loaded      │
+│ 🎯 Location: Berlin, Germany (Pride Capital)               │
+│ 🌈 Rainbow Level: OVER 9000                                │
+└───────────────────────────────────────────────────────────────┘
+
+sharkBLN@rainbow-terminal:~$ echo $MISSION
 "Creating digital art that combines underground techno culture 
-with authentic terminal aesthetics while promoting equality 
-and celebrating the beautiful diversity of humanity."
+with authentic terminal aesthetics while promoting equality, 
+spreading rainbow love, and celebrating the beautiful diversity 
+of humanity across the digital realm. 🌈✨"
 
-nil@terminal:~$ sudo systemctl status nil.service
-● nil.service - NIL Digital Empire
-   Loaded: loaded
-   Active: active (transmitting) since 1990
+sharkBLN@rainbow-terminal:~$ sudo systemctl status pride-empire.service
+● pride-empire.service - NIL Digital Rainbow Empire
+   Loaded: loaded (/etc/systemd/system/pride-empire.service; enabled)
+   Active: active (transmitting rainbow vibes) since 1990
    Main PID: 140 (BPM)
-   Status: "Spreading love, beats, and equality"
+   Tasks: ∞ (spreading love)
+   Memory: 808 MB (beats per minute)
+   CPU: 100% (of my rainbow soul)
+   Status: "Spreading love, beats, equality, and rainbow vibes"
+   Rainbow-Level: MAXIMUM 🌈
 ```
 
 ---
 
-## 🌈 Digital Portals
+## 🌈 <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">D</span><span style="color:#ffed00">i</span><span style="color:#008018">g</span><span style="color:#0078d4">i</span><span style="color:#732982">t</span><span style="color:#e40303">a</span><span style="color:#ff8c00">l</span> <span style="color:#ffed00">P</span><span style="color:#008018">o</span><span style="color:#0078d4">r</span><span style="color:#732982">t</span><span style="color:#e40303">a</span><span style="color:#ff8c00">l</span><span style="color:#ffed00">s</span>
 
 <div align="center">
 
-| Portal | Theme | Status | Description |
-|--------|-------|--------|-------------|
-| 🎵 [**Audio Necromancer**](https://happening.today/music.html) | `Pink Fire` | 🟢 **STREAMING** | Underground techno, SoundCloud, 140 BPM |
-| 🧪 [**Digital Alchemy Lab**](https://happening.today/alchemy.html) | `Matrix Green` | 🟢 **EXPERIMENTING** | Code experiments, tech docs |
-| 💻 [**Development Portfolio**](https://happening.today/projects.html) | `Ice Blue` | 🟢 **SHOWCASING** | Client work, tech stack |
-| 🔬 [**Experimental Lab**](https://happening.today/lab.html) | `Fire Orange` | 🟡 **MAINTENANCE** | Creative chaos, cutting-edge |
-| 👑 [**Central Dashboard**](https://happening.today/dashboard.html) | `Multi-Color` | 🟢 **COMMAND** | Admin control center |
-| 🏳️‍🌈 [**Pride Portal**](https://happening.today/pride.html) | `Rainbow` | 🟢 **SPREADING LOVE** | Equality, diversity, one human race |
+| Portal | Theme | Status | Pride Level | Description |
+|--------|-------|--------|-------------|-------------|
+| 🎵 [**Audio Necromancer**](https://happening.today/music.html) | `Pride Pink Fire` | 🌈 **RAINBOW STREAMING** | 🏳️‍🌈 MAX | Underground techno with pride beats, 140 BPM |
+| 🧪 [**Digital Alchemy Lab**](https://happening.today/alchemy.html) | `Rainbow Matrix Green` | 🌈 **PRIDE EXPERIMENTING** | 🏳️‍🌈 HIGH | Code experiments with rainbow algorithms |
+| 💻 [**Development Portfolio**](https://happening.today/projects.html) | `Pride Ice Blue` | 🌈 **RAINBOW SHOWCASING** | 🏳️‍🌈 HIGH | Client work with pride aesthetics |
+| 🔬 [**Experimental Lab**](https://happening.today/lab.html) | `Rainbow Fire Orange` | 🌈 **PRIDE MAINTENANCE** | 🏳️‍🌈 MEDIUM | Creative rainbow chaos experiments |
+| 👑 [**Central Dashboard**](https://happening.today/dashboard.html) | `Full Rainbow Spectrum` | 🌈 **RAINBOW COMMAND** | 🏳️‍🌈 MAXIMUM | Admin center with all pride colors |
+| 🏳️‍🌈 [**Pride Portal**](https://happening.today/pride.html) | `PURE RAINBOW` | 🌈 **SPREADING MAXIMUM LOVE** | 🏳️‍🌈 ∞ | Equality, diversity, one human race HQ |
 
 </div>
 
 ---
 
-## ⚡ Tech Stack & Terminal Arsenal
+## ⚡ <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">T</span><span style="color:#ffed00">e</span><span style="color:#008018">c</span><span style="color:#0078d4">h</span> <span style="color:#732982">S</span><span style="color:#e40303">t</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">c</span><span style="color:#008018">k</span> & <span style="color:#0078d4">P</span><span style="color:#732982">r</span><span style="color:#e40303">i</span><span style="color:#ff8c00">d</span><span style="color:#ffed00">e</span> <span style="color:#008018">A</span><span style="color:#0078d4">r</span><span style="color:#732982">s</span><span style="color:#e40303">e</span><span style="color:#ff8c00">n</span><span style="color:#ffed00">a</span><span style="color:#008018">l</span>
 
 <div align="center">
 
-### 🎨 Frontend Wizardry
+### 🌈 Frontend Rainbow Wizardry
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Pride](https://img.shields.io/badge/Pride-Code-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
 
-### 🎵 Audio Production
+### 🎵 Audio Production with Pride
 ![Logic Pro](https://img.shields.io/badge/Logic_Pro-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=ableton-live&logoColor=white)
 ![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)
+![Pride Beats](https://img.shields.io/badge/Pride_Beats-140_BPM-FF1493?style=for-the-badge&logo=music&logoColor=white)
 
-### 🖥️ Terminal & Development
+### 💻 Terminal & Rainbow Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+![Terminal](https://img.shields.io/badge/Rainbow_Terminal-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Matrix Statistics
+## 📊 <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">G</span><span style="color:#ffed00">i</span><span style="color:#008018">t</span><span style="color:#0078d4">H</span><span style="color:#732982">u</span><span style="color:#e40303">b</span> <span style="color:#ff8c00">P</span><span style="color:#ffed00">r</span><span style="color:#008018">i</span><span style="color:#0078d4">d</span><span style="color:#732982">e</span> <span style="color:#e40303">S</span><span style="color:#ff8c00">t</span><span style="color:#ffed00">a</span><span style="color:#008018">t</span><span style="color:#0078d4">i</span><span style="color:#732982">s</span><span style="color:#e40303">t</span><span style="color:#ff8c00">i</span><span style="color:#ffed00">c</span><span style="color:#008018">s</span>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nil&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=F20544&text_color=F0F1F2&icon_color=F22786"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nil&layout=compact&langs_count=7&theme=radical&bg_color=0d1117&title_color=F20544&text_color=F0F1F2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharkBLN&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e40303&text_color=F0F1F2&icon_color=ff8c00"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkBLN&layout=compact&langs_count=7&theme=radical&bg_color=0d1117&title_color=ffed00&text_color=F0F1F2"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nil&theme=radical&background=0d1117&stroke=F20544&ring=F22786&fire=F2055C&currStreakNum=F0F1F2&sideNums=F0F1F2&currStreakLabel=F20544&sideLabels=F20544&dates=F0F1F2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sharkBLN&theme=radical&background=0d1117&stroke=e40303&ring=ff8c00&fire=ffed00&currStreakNum=F0F1F2&sideNums=F0F1F2&currStreakLabel=008018&sideLabels=0078d4&dates=732982)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🎵 Audio Frequencies & Beats
+## 🎵 <span style="color:#e40303">P</span><span style="color:#ff8c00">r</span><span style="color:#ffed00">i</span><span style="color:#008018">d</span><span style="color:#0078d4">e</span> <span style="color:#732982">A</span><span style="color:#e40303">u</span><span style="color:#ff8c00">d</span><span style="color:#ffed00">i</span><span style="color:#008018">o</span> <span style="color:#0078d4">F</span><span style="color:#732982">r</span><span style="color:#e40303">e</span><span style="color:#ff8c00">q</span><span style="color:#ffed00">u</span><span style="color:#008018">e</span><span style="color:#0078d4">n</span><span style="color:#732982">c</span><span style="color:#e40303">i</span><span style="color:#ff8c00">e</span><span style="color:#ffed00">s</span> & <span style="color:#008018">R</span><span style="color:#0078d4">a</span><span style="color:#732982">i</span><span style="color:#e40303">n</span><span style="color:#ff8c00">b</span><span style="color:#ffed00">o</span><span style="color:#008018">w</span> <span style="color:#0078d4">B</span><span style="color:#732982">e</span><span style="color:#e40303">a</span><span style="color:#ff8c00">t</span><span style="color:#ffed00">s</span>
 
 ```bash
-nil@audio-terminal:~$ systemctl status audio-necromancer.service
-● audio-necromancer.service - Underground Techno Transmission
-   Loaded: loaded (/etc/systemd/system/audio-necromancer.service; enabled)
-   Active: active (streaming) since Birth
-   Process: 140 ExecStart=/usr/bin/nil --frequency=140 --genre=techno (code=0, status=SUCCESS)
-   Main PID: 140 (audio-necromancer)
-      Tasks: ∞ (limit: unlimited)
+sharkBLN@rainbow-audio-terminal:~$ systemctl status rainbow-necromancer.service
+● rainbow-necromancer.service - Pride Underground Techno Transmission
+   Loaded: loaded (/etc/systemd/system/rainbow-necromancer.service; enabled)
+   Active: active (streaming rainbow vibes) since Birth
+   Process: 140 ExecStart=/usr/bin/nil --frequency=140 --genre=pride-techno --rainbow=max
+   Main PID: 140 (rainbow-necromancer)
+      Tasks: ∞ (spreading rainbow love through beats)
      Memory: 808 MB (beats per minute)
-        CPU: 100% (of my soul)
-   CGroup: /system.slice/audio-necromancer.service
-           └─140 /usr/bin/nil --frequency=140 --genre=techno --location=hamburg
+        CPU: 100% (of my rainbow soul)
+     Pride-Level: MAXIMUM 🏳️‍🌈
+   CGroup: /system.slice/rainbow-necromancer.service
+           └─140 /usr/bin/nil --frequency=140 --genre=pride-techno --location=berlin --rainbow=max
 
-nil@audio-terminal:~$ cat /proc/beatport-charts
-🎵 Latest Releases:
-▶ NIL - Underground Frequencies EP (Beatport Tech House #47)
-▶ NIL - Berlin Nights (SoundCloud 12K plays)
-▶ NIL - Digital Alchemy Mix Series Vol.3
+sharkBLN@rainbow-audio-terminal:~$ cat /proc/pride-beatport-charts
+🏳️‍🌈 Latest Rainbow Releases:
+▶ NIL - Pride Underground Frequencies EP (Beatport Pride House #1)
+▶ NIL - Berlin Rainbow Nights (SoundCloud 25K plays) 🌈
+▶ NIL - Digital Pride Alchemy Mix Series Vol.6 🏳️‍🌈
 
-nil@audio-terminal:~$ curl -s api.soundcloud.com/nil | jq '.stats'
+sharkBLN@rainbow-audio-terminal:~$ curl -s api.soundcloud.com/nil-pride | jq '.rainbow_stats'
 {
-  "followers": "1.2K+",
-  "tracks": "42",
-  "genre": "Underground Techno",
-  "bpm": "140",
-  "mood": "Cyberpunk Terminal Vibes"
+  "followers": "2.5K+ rainbow warriors",
+  "tracks": "69 (nice) pride beats",
+  "genre": "Underground Pride Techno",
+  "bpm": "140 (rainbow frequency)",
+  "mood": "Maximum Rainbow Cyberpunk Terminal Vibes",
+  "pride_level": "Over 9000 🏳️‍🌈"
 }
 ```
 
 ---
 
-## 🏳️‍🌈 Love, Equality & One Human Race
+## 🔗 <span style="color:#e40303">C</span><span style="color:#ff8c00">o</span><span style="color:#ffed00">n</span><span style="color:#008018">n</span><span style="color:#0078d4">e</span><span style="color:#732982">c</span><span style="color:#e40303">t</span> <span style="color:#ff8c00">t</span><span style="color:#ffed00">o</span> <span style="color:#008018">t</span><span style="color:#0078d4">h</span><span style="color:#732982">e</span> <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">D</span><span style="color:#ffed00">i</span><span style="color:#008018">g</span><span style="color:#0078d4">i</span><span style="color:#732982">t</span><span style="color:#e40303">a</span><span style="color:#ff8c00">l</span> <span style="color:#ffed00">E</span><span style="color:#008018">m</span><span style="color:#0078d4">p</span><span style="color:#732982">i</span><span style="color:#e40303">r</span><span style="color:#ff8c00">e</span>
 
 <div align="center">
 
-### 💖 Core Values
-
-```bash
-#!/bin/bash
-# Human Equality Protocol v2025.06
-
-echo "There is only ONE human race on this planet."
-echo "Our differences make us stronger, not weaker."
-echo "Love is love, always and forever."
-echo "Equal rights and respect for ALL humans."
-echo "Diversity = Strength. Unity = Power."
-
-export HUMAN_VALUE="infinite"
-export LOVE_STATUS="universal"
-export EQUALITY_LEVEL="100%"
-export PRIDE_MODE="always_active"
-
-systemctl enable respect.service
-systemctl enable kindness.service  
-systemctl enable equality.service
-```
-
-**🌈 Whether you're straight, gay, bi, trans, non-binary, or anywhere on the beautiful spectrum of human identity - you are valid, you are loved, and you deserve equal treatment. That's not politics, that's basic human decency.**
-
-</div>
-
----
-
-## 🔗 Connect to the Digital Empire
-
-<div align="center">
-
-### 🎵 Music & Audio
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-Underground_Sets-FF3300?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/nil-official)
-[![Beatport](https://img.shields.io/badge/Beatport-Official_Releases-FF6900?style=for-the-badge&logo=beatport)](https://beatport.com/artist/nil)
+### 🏳️‍🌈 Pride Music & Audio
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-Pride_Sets-FF3300?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/nil-official)
+[![Beatport](https://img.shields.io/badge/Beatport-Rainbow_Releases-FF6900?style=for-the-badge&logo=beatport)](https://beatport.com/artist/nil)
 [![Email](https://img.shields.io/badge/Booking-music@n--il.de-F20544?style=for-the-badge&logo=gmail)](mailto:music@n-il.de)
 
-### 💻 Development & Code
+### 💻 Rainbow Development & Code
 [![Website](https://img.shields.io/badge/Portal-happening.today-0078d4?style=for-the-badge&logo=github-pages)](https://happening.today)
-[![Dashboard](https://img.shields.io/badge/Admin-Central_Command-732982?style=for-the-badge&logo=terminal)](https://happening.today/dashboard.html)
+[![Dashboard](https://img.shields.io/badge/Rainbow-Central_Command-732982?style=for-the-badge&logo=terminal)](https://happening.today/dashboard.html)
 
-### 🌈 Social & Community
-[![Pride](https://img.shields.io/badge/Pride-Love_Is_Love-e40303?style=for-the-badge&logo=rainbow)](https://happening.today/pride.html)
-[![Equality](https://img.shields.io/badge/Human_Race-One_&_Equal-008018?style=for-the-badge&logo=heart)](https://happening.today/pride.html)
+### 🌈 Pride & Community
+[![Pride Portal](https://img.shields.io/badge/Pride-Love_Is_Love-e40303?style=for-the-badge&logo=heart)](https://happening.today/pride.html)
+[![Equality](https://img.shields.io/badge/Human_Race-One_&_Equal-008018?style=for-the-badge&logo=rainbow)](https://happening.today/pride.html)
+[![Rainbow Generator](https://img.shields.io/badge/Rainbow-Banner_Generator-ff8c00?style=for-the-badge&logo=color-lens)](https://happening.today/tools/rainbow-generator.html)
 
 </div>
 
 ---
 
-## 🎯 Current Projects & Experiments
+## 🎯 <span style="color:#e40303">C</span><span style="color:#ff8c00">u</span><span style="color:#ffed00">r</span><span style="color:#008018">r</span><span style="color:#0078d4">e</span><span style="color:#732982">n</span><span style="color:#e40303">t</span> <span style="color:#ff8c00">R</span><span style="color:#ffed00">a</span><span style="color:#008018">i</span><span style="color:#0078d4">n</span><span style="color:#732982">b</span><span style="color:#e40303">o</span><span style="color:#ff8c00">w</span> <span style="color:#ffed00">P</span><span style="color:#008018">r</span><span style="color:#0078d4">o</span><span style="color:#732982">j</span><span style="color:#e40303">e</span><span style="color:#ff8c00">c</span><span style="color:#ffed00">t</span><span style="color:#008018">s</span> & <span style="color:#0078d4">P</span><span style="color:#732982">r</span><span style="color:#e40303">i</span><span style="color:#ff8c00">d</span><span style="color:#ffed00">e</span> <span style="color:#008018">E</span><span style="color:#0078d4">x</span><span style="color:#732982">p</span><span style="color:#e40303">e</span><span style="color:#ff8c00">r</span><span style="color:#ffed00">i</span><span style="color:#008018">m</span><span style="color:#0078d4">e</span><span style="color:#732982">n</span><span style="color:#e40303">t</span><span style="color:#ff8c00">s</span>
 
 ```bash
-nil@development:~/projects$ ls -la
+sharkBLN@rainbow-development:~/pride-projects$ ls -la
 total ∞
-drwxr-xr-x  8 nil equality 4096 Jun 31 23:47 ./
-drwxr-xr-x  3 nil equality 4096 Jun 31 00:00 ../
--rw-r--r--  1 nil equality 1337 Jun 31 23:47 README.md
-drwxr-xr-x  2 nil equality 4096 Jun 31 23:45 terminal-aesthetic-portals/
-drwxr-xr-x  2 nil equality 4096 Jun 31 23:40 audio-necromancer-webapp/
-drwxr-xr-x  2 nil equality 4096 Jun 31 23:35 rainbow-pride-portal/
-drwxr-xr-x  2 nil equality 4096 Jun 31 23:30 matrix-rain-engine/
-drwxr-xr-x  2 nil equality 4096 Jun 31 23:25 digital-alchemy-experiments/
-drwxr-xr-x  2 nil equality 4096 Jun 31 23:20 underground-music-platform/
--rw-r--r--  1 nil equality  140 Jun 31 23:47 currently-playing.bpm
+drwxrwxrwx  8 pride equality 4096 Jun 31 23:47 ./
+drwxrwxrwx  3 pride equality 4096 Jun 31 00:00 ../
+-rw-rw-rw-  1 pride equality 1337 Jun 31 23:47 README.md
+drwxrwxrwx  2 pride equality 4096 Jun 31 23:45 rainbow-terminal-portals/
+drwxrwxrwx  2 pride equality 4096 Jun 31 23:40 pride-audio-necromancer-webapp/
+drwxrwxrwx  2 pride equality 4096 Jun 31 23:35 maximum-rainbow-pride-portal/
+drwxrwxrwx  2 pride equality 4096 Jun 31 23:30 rainbow-matrix-rain-engine/
+drwxrwxrwx  2 pride equality 4096 Jun 31 23:25 digital-pride-equality-experiments/
+drwxrwxrwx  2 pride equality 4096 Jun 31 23:20 underground-pride-music-platform/
+-rw-rw-rw-  1 pride equality  140 Jun 31 23:47 currently-playing-pride.bpm
 
-nil@development:~/projects$ cat currently-playing.bpm
-140 BPM - Berlin Underground Techno - Terminal Aesthetics - Love is Love
+sharkBLN@rainbow-development:~/pride-projects$ cat currently-playing-pride.bpm
+140 BPM - Berlin Underground Pride Techno - Rainbow Terminal Aesthetics - Love is Love 🏳️‍🌈
 ```
 
-### 🔬 Active Experiments
-- 🌈 **Terminal-Aesthetic Web Portals** - Cyberpunk-inspired portfolio system
-- 🎵 **Audio-Reactive Matrix Rain** - Beat-synchronized visual effects  
-- 🏳️‍🌈 **Pride & Equality Portal** - Spreading love and human rights awareness
-- ⚡ **Reality.exe Monitoring** - Consensus reality maintenance protocols
-- 🎛️ **140 BPM Engine** - Techno frequency optimization algorithms
-
----
-
-## 🚀 Quick Terminal Commands
-
-```bash
-# Connect to NIL Digital Empire
-curl -X GET https://happening.today/api/status
-# Response: {"status": "transmitting", "frequency": "140_BPM", "vibe": "underground"}
-
-# Stream current audio transmission
-mpv https://soundcloud.com/nil-official/latest-set
-
-# Check equality status
-sudo ./scripts/check_human_equality.sh
-# All humans have equal value: ✅ TRUE
-
-# Activate pride mode
-systemctl enable pride.service && echo "🏳️‍🌈 Love is Love activated"
-
-# Enter the digital empire
-firefox https://happening.today
-```
-
----
-
-<div align="center">
-
-### 🌟 "In the digital realm, we transcend physical boundaries. Here, we are united by creativity, love, and the universal language of 140 BPM." 🌟
-
-```
-nil@universe:~$ uptime
- ∞ years,  ∞ days,  ∞ hours,  ∞ minutes
- load average: 140.0 BPM, spreading love, promoting equality
-```
-
-[![Profile Views](https://komarev.com/ghpvc/?username=nil&label=Portal+Visitors&color=F20544&style=for-the-badge)](https://github.com/nil)
-[![GitHub followers](https://img.shields.io/github/followers/nil?label=Digital%20Empire%20Citizens&style=for-the-badge&color=732982&labelColor=0d1117)](https://github.com/nil?tab=followers)
-
-**🏳️‍🌈 Happy Pride! One Human Race! Love is Love! 140 BPM Forever! 🏳️‍🌈**
-
-</div>
-
----
-
-<sub>*Made with ❤️ in Berlin • Terminal Aesthetics • Underground Techno Culture • Human Equality • 2025*</sub>
+### 🏳️‍🌈 Active Rainbow Experiments
+- 
