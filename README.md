@@ -168,6 +168,10 @@ sharkBLN@rainbow-terminal:~$ sudo systemctl status pride-empire.service
 
 ## 🎵 <span style="color:#e40303">P</span><span style="color:#ff8c00">r</span><span style="color:#ffed00">i</span><span style="color:#008018">d</span><span style="color:#0078d4">e</span> <span style="color:#732982">A</span><span style="color:#e40303">u</span><span style="color:#ff8c00">d</span><span style="color:#ffed00">i</span><span style="color:#008018">o</span> <span style="color:#0078d4">F</span><span style="color:#732982">r</span><span style="color:#e40303">e</span><span style="color:#ff8c00">q</span><span style="color:#ffed00">u</span><span style="color:#008018">e</span><span style="color:#0078d4">n</span><span style="color:#732982">c</span><span style="color:#e40303">i</span><span style="color:#ff8c00">e</span><span style="color:#ffed00">s</span> & <span style="color:#008018">R</span><span style="color:#0078d4">a</span><span style="color:#732982">i</span><span style="color:#e40303">n</span><span style="color:#ff8c00">b</span><span style="color:#ffed00">o</span><span style="color:#008018">w</span> <span style="color:#0078d4">B</span><span style="color:#732982">e</span><span style="color:#e40303">a</span><span style="color:#ff8c00">t</span><span style="color:#ffed00">s</span>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sharkBLN/banners/main/now-playing-banner.svg" width="60%" alt="Now Playing"/>
+</div>
+
 ```bash
 sharkBLN@rainbow-audio-terminal:~$ systemctl status rainbow-necromancer.service
 ● rainbow-necromancer.service - Pride Underground Techno Transmission
@@ -244,4 +248,112 @@ sharkBLN@rainbow-development:~/pride-projects$ cat currently-playing-pride.bpm
 ```
 
 ### 🏳️‍🌈 Active Rainbow Experiments
-- 
+
+<div align="center">
+
+| Project | Status | Pride Factor | Technology | Description |
+|---------|--------|--------------|------------|-------------|
+| 🌈 **Cyber Pride Bulldogge** | `COMPLETED` | 🏳️‍🌈 **MAX** | `SVG + CSS Animations` | Animated pride bulldogge for terminal banners |
+| 🎵 **140 BPM Pride Matrix** | `STREAMING` | 🏳️‍🌈 **HIGH** | `Three.js + Web Audio` | Real-time audio visualization with pride colors |
+| 💻 **Rainbow Terminal Emulator** | `ACTIVE DEV` | 🏳️‍🌈 **HIGH** | `JavaScript + Canvas` | Pride-themed web terminal with 140 BPM animations |
+| 🌊 **Pride Wave Generator** | `PRODUCTION` | 🏳️‍🌈 **MAX** | `SVG + CSS Grid` | Animated rainbow wave banners for GitHub |
+| 🔮 **Digital Alchemy Pride** | `EXPERIMENTING` | 🏳️‍🌈 **MEDIUM** | `React + WebGL` | Pride-powered code transformation tools |
+| 🏃‍♂️ **Escape the Heteronorm** | `PROTOTYPE` | 🏳️‍🌈 **HIGH** | `Phaser.js` | Retro pride-themed arcade game |
+
+</div>
+
+```bash
+sharkBLN@rainbow-terminal:~$ git log --oneline --rainbow
+🌈 e40303a feat: Add cyber pride bulldogge to terminal banner
+🌈 ff8c00b feat: Implement 140 BPM pride wave animations  
+🌈 ffed00c feat: Create rainbow matrix digital rain effect
+🌈 008018d feat: Add terminal glow effects and cyberpunk styling
+🌈 0078d4e feat: Build pride color cycling animations
+🌈 732982f feat: Integrate love.service and equality.service
+🌈 e40303a feat: Launch NIL Digital Empire Pride Edition v2025.06
+```
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sharkBLN/banners/main/love-is-love-banner.svg" width="80%" alt="Love is Love"/>
+</div>
+
+## 💫 <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">P</span><span style="color:#ffed00">h</span><span style="color:#008018">i</span><span style="color:#0078d4">l</span><span style="color:#732982">o</span><span style="color:#e40303">s</span><span style="color:#ff8c00">o</span><span style="color:#ffed00">p</span><span style="color:#008018">h</span><span style="color:#0078d4">y</span> & <span style="color:#732982">D</span><span style="color:#e40303">i</span><span style="color:#ff8c00">g</span><span style="color:#ffed00">i</span><span style="color:#008018">t</span><span style="color:#0078d4">a</span><span style="color:#732982">l</span> <span style="color:#e40303">M</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">n</span><span style="color:#008018">i</span><span style="color:#0078d4">f</span><span style="color:#732982">e</span><span style="color:#e40303">s</span><span style="color:#ff8c00">t</span><span style="color:#ffed00">o</span>
+
+<div align="center">
+
+> *"In the digital realm, there are no borders, no prejudices, only the beautiful spectrum of human creativity flowing through fiber optic rainbows. Code is poetry, music is mathematics, and love is the ultimate algorithm that compiles perfectly every time."* 
+> 
+> **— sharkBLN, Terminal Poet & Digital Pride Warrior 🌈**
+
+</div>
+
+```bash
+sharkBLN@rainbow-terminal:~$ cat /etc/pride-manifesto.conf
+# NIL Digital Empire Pride Manifesto v2025.06
+# "Code with Pride, Create with Love, Debug with Empathy"
+
+[CORE_VALUES]
+diversity=infinite_spectrum
+equality=non_negotiable
+love=universal_constant
+respect=default_mode
+creativity=rainbow_powered
+
+[DIGITAL_PHILOSOPHY] 
+# Every commit is an act of love
+# Every pull request spreads understanding  
+# Every merge brings us closer together
+# Every deploy makes the world more colorful
+
+[TERMINAL_WISDOM]
+"sudo rm -rf /hatred"
+"chmod 777 /love /respect /equality" 
+"export PRIDE_MODE=always_on"
+"while true; do spread_rainbow_vibes; done"
+
+[BERLIN_UNDERGROUND_TECHNO_CODE]
+bpm=140
+frequency=love
+amplitude=maximum_pride
+echo "🌈 Berlin never sleeps, and neither does equality 🌈"
+```
+
+---
+
+## 🦈 <span style="color:#e40303">A</span><span style="color:#ff8c00">b</span><span style="color:#ffed00">o</span><span style="color:#008018">u</span><span style="color:#0078d4">t</span> <span style="color:#732982">S</span><span style="color:#e40303">h</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">r</span><span style="color:#008018">k</span><span style="color:#0078d4">B</span><span style="color:#732982">L</span><span style="color:#e40303">N</span> & <span style="color:#ff8c00">N</span><span style="color:#ffed00">I</span><span style="color:#008018">L</span>
+
+<div align="center">
+
+**From the underground techno clubs of Berlin to the infinite digital cosmos, NIL represents the fusion of authentic human expression with cutting-edge technology. Every beat, every line of code, and every rainbow pixel is crafted with intention: to create a digital space where everyone belongs, where creativity knows no bounds, and where love truly is the most powerful force in the universe.**
+
+**🌈 Together, we code a better tomorrow. 🌈**
+
+*Fun fact: The name "NIL" represents the null state - the beginning of infinite possibilities, while "sharkBLN" embodies the sharp, decisive energy of Berlin's creative spirit moving through digital waters.* 🦈
+
+</div>
+
+```bash
+sharkBLN@rainbow-terminal:~$ echo "HAPPY PRIDE MONTH AND BEYOND! 🏳️‍🌈✨"
+HAPPY PRIDE MONTH AND BEYOND! 🏳️‍🌈✨
+
+sharkBLN@rainbow-terminal:~$ sudo systemctl restart love.service
+[  OK  ] Started Love is Love Service - Universal Edition
+[  OK  ] Started Equality for All Service - Human Race v1.0
+[  OK  ] Started Rainbow Vibes Service - Maximum Pride Mode
+[  OK  ] Started Berlin Underground Pride Techno Service - 140 BPM
+
+sharkBLN@rainbow-terminal:~$ while true; do echo "🌈"; sleep 0.14; done
+🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈
+```
+
+<div align="center">
+
+---
+
+### <span style="color:#e40303">🏳️‍🌈</span> <span style="color:#ff8c00">S</span><span style="color:#ffed00">p</span><span style="color:#008018">r</span><span style="color:#0078d4">e</span><span style="color:#732982">a</span><span style="color:#e40303">d</span><span style="color:#ff8c00">i</span><span style="color:#ffed00">n</span><span style="color:#008018">g</span> <span style="color:#0078d4">R</span><span style="color:#732982">a</span><span style="color:#e40303">i</span><span style="color:#ff8c00">n</span><span style="color:#ffed00">b</span><span style="color:#008018">o</span><span style="color:#0078d4">w</span> <span style="color:#732982">L</span><span style="color:#e40303">o</span><span style="color:#ff8c00">v</span><span style="color:#ffed00">e</span> <span style="color:#008018">A</span><span style="color:#0078d4">c</span><span style="color:#732982">r</span><span style="color:#e40303">o</span><span style="color:#ff8c00">s</span><span style="color:#ffed00">s</span> <span style="color:#008018">T</span><span style="color:#0078d4">h</span><span style="color:#732982">e</span> <span style="color:#e40303">D</span><span style="color:#ff8c00">i</span><span style="color:#ffed00">g</span><span style="color:#008018">i</span><span style="color:#0078d4">t</span><span style="color:#732982">a</span><span style="color:#e40303">l</span> <span style="color:#ff8c00">R</span><span style="color:#ffed00">e</span><span style="color:#008018">a</span><span style="color:#0078d4">l</span><span style="color:#732982">m</span> <span style="color:#e40303">🏳️‍🌈</span>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FsharkBLN&labelColor=%23e40303&countColor=%23ff8c00&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FsharkBLN)
+
+</div>
