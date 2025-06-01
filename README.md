@@ -156,6 +156,11 @@
   </svg>
 </div>
 
+<div align="center">
+<table>
+<tr>
+<td align="center">
+
 ```
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║ 🏳️‍🌈♪♫♪ NIL DIGITAL EMPIRE - PRIDE EDITION ♪♫♪🏳️‍🌈                        ║  
@@ -167,14 +172,39 @@
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
+</td>
+</tr>
+</table>
+</div>
+
 <div align="center">
 
 ### <span style="color:#e40303">🎵</span> <span style="color:#ff8c00">A</span><span style="color:#ffed00">u</span><span style="color:#008018">d</span><span style="color:#0078d4">i</span><span style="color:#732982">o</span> <span style="color:#e40303">N</span><span style="color:#ff8c00">e</span><span style="color:#ffed00">c</span><span style="color:#008018">r</span><span style="color:#0078d4">o</span><span style="color:#732982">m</span><span style="color:#e40303">a</span><span style="color:#ff8c00">n</span><span style="color:#ffed00">c</span><span style="color:#008018">e</span><span style="color:#0078d4">r</span> • <span style="color:#732982">💻</span> <span style="color:#e40303">T</span><span style="color:#ff8c00">e</span><span style="color:#ffed00">r</span><span style="color:#008018">m</span><span style="color:#0078d4">i</span><span style="color:#732982">n</span><span style="color:#e40303">a</span><span style="color:#ff8c00">l</span> <span style="color:#ffed00">W</span><span style="color:#008018">i</span><span style="color:#0078d4">z</span><span style="color:#732982">a</span><span style="color:#e40303">r</span><span style="color:#ff8c00">d</span> • <span style="color:#ffed00">🌈</span> <span style="color:#008018">E</span><span style="color:#0078d4">q</span><span style="color:#732982">u</span><span style="color:#e40303">a</span><span style="color:#ff8c00">l</span><span style="color:#ffed00">i</span><span style="color:#008018">t</span><span style="color:#0078d4">y</span> <span style="color:#732982">A</span><span style="color:#e40303">d</span><span style="color:#ff8c00">v</span><span style="color:#ffed00">o</span><span style="color:#008018">c</span><span style="color:#0078d4">a</span><span style="color:#732982">t</span><span style="color:#e40303">e</span>
 
+<table>
+<tr>
+<td align="center">
+
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/nil-official)
+
+</td>
+<td align="center">
+
 [![Beatport](https://img.shields.io/badge/Beatport-FF6900?style=for-the-badge&logo=beatport&logoColor=white)](https://beatport.com/artist/nil)
+
+</td>
+<td align="center">
+
 [![Email](https://img.shields.io/badge/Music-music@n--il.de-F20544?style=for-the-badge&logo=gmail&logoColor=white)](mailto:music@n-il.de)
+
+</td>
+<td align="center">
+
 [![Website](https://img.shields.io/badge/Portal-happening.today-0078d4?style=for-the-badge&logo=github-pages&logoColor=white)](https://happening.today)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -331,9 +361,12 @@
   </svg>
 </div>
 
-### 💖 <span style="color:#e40303">O</span><span style="color:#ff8c00">N</span><span style="color:#ffed00">E</span> <span style="color:#008018">H</span><span style="color:#0078d4">U</span><span style="color:#732982">M</span><span style="color:#e40303">A</span><span style="color:#ff8c00">N</span> <span style="color:#ffed00">R</span><span style="color:#008018">A</span><span style="color:#0078d4">C</span><span style="color:#732982">E</span> 💖
+### <div align="center">💖 <span style="color:#e40303">O</span><span style="color:#ff8c00">N</span><span style="color:#ffed00">E</span> <span style="color:#008018">H</span><span style="color:#0078d4">U</span><span style="color:#732982">M</span><span style="color:#e40303">A</span><span style="color:#ff8c00">N</span> <span style="color:#ffed00">R</span><span style="color:#008018">A</span><span style="color:#0078d4">C</span><span style="color:#732982">E</span> 💖</div>
 
 <div align="center">
+<table>
+<tr>
+<td align="center">
 
 ```bash
 #!/bin/bash
@@ -358,13 +391,25 @@ systemctl enable pride.service
 echo "🌈 Spreading rainbow love across the digital realm 🌈"
 ```
 
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
 **Whether you're straight, gay, lesbian, bi, trans, pan, ace, non-binary, or anywhere on the beautiful spectrum of human identity - you are loved, you are valid, and you deserve equal treatment. That's not politics, that's basic human decency.** 💖✨
 
 </div>
 
 ---
 
-## 🚀 <span style="color:#e40303">C</span><span style="color:#ff8c00">u</span><span style="color:#ffed00">r</span><span style="color:#008018">r</span><span style="color:#0078d4">e</span><span style="color:#732982">n</span><span style="color:#e40303">t</span> <span style="color:#ff8c00">S</span><span style="color:#ffed00">t</span><span style="color:#008018">a</span><span style="color:#0078d4">t</span><span style="color:#732982">u</span><span style="color:#e40303">s</span>
+## <div align="center">🚀 <span style="color:#e40303">C</span><span style="color:#ff8c00">u</span><span style="color:#ffed00">r</span><span style="color:#008018">r</span><span style="color:#0078d4">e</span><span style="color:#732982">n</span><span style="color:#e40303">t</span> <span style="color:#ff8c00">S</span><span style="color:#ffed00">t</span><span style="color:#008018">a</span><span style="color:#0078d4">t</span><span style="color:#732982">u</span><span style="color:#e40303">s</span></div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
 
 ```bash
 sharkBLN@rainbow-terminal:~$ whoami
@@ -400,11 +445,19 @@ sharkBLN@rainbow-terminal:~$ sudo systemctl status pride-empire.service
    Rainbow-Level: MAXIMUM 🌈
 ```
 
+</td>
+</tr>
+</table>
+</div>
+
 ---
 
-## 🌈 <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">D</span><span style="color:#ffed00">i</span><span style="color:#008018">g</span><span style="color:#0078d4">i</span><span style="color:#732982">t</span><span style="color:#e40303">a</span><span style="color:#ff8c00">l</span> <span style="color:#ffed00">P</span><span style="color:#008018">o</span><span style="color:#0078d4">r</span><span style="color:#732982">t</span><span style="color:#e40303">a</span><span style="color:#ff8c00">l</span><span style="color:#ffed00">s</span>
+## <div align="center">🌈 <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">D</span><span style="color:#ffed00">i</span><span style="color:#008018">g</span><span style="color:#0078d4">i</span><span style="color:#732982">t</span><span style="color:#e40303">a</span><span style="color:#ff8c00">l</span> <span style="color:#ffed00">P</span><span style="color:#008018">o</span><span style="color:#0078d4">r</span><span style="color:#732982">t</span><span style="color:#e40303">a</span><span style="color:#ff8c00">l</span><span style="color:#ffed00">s</span></div>
 
 <div align="center">
+<table>
+<tr>
+<td align="center">
 
 | Portal | Theme | Status | Pride Level | Description |
 |--------|-------|--------|-------------|-------------|
@@ -415,44 +468,72 @@ sharkBLN@rainbow-terminal:~$ sudo systemctl status pride-empire.service
 | 👑 [**Central Dashboard**](https://happening.today/dashboard.html) | `Full Rainbow Spectrum` | 🌈 **RAINBOW COMMAND** | 🏳️‍🌈 MAXIMUM | Admin center with all pride colors |
 | 🏳️‍🌈 [**Pride Portal**](https://happening.today/pride.html) | `PURE RAINBOW` | 🌈 **SPREADING MAXIMUM LOVE** | 🏳️‍🌈 ∞ | Equality, diversity, one human race HQ |
 
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## ⚡ <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">T</span><span style="color:#ffed00">e</span><span style="color:#008018">c</span><span style="color:#0078d4">h</span> <span style="color:#732982">S</span><span style="color:#e40303">t</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">c</span><span style="color:#008018">k</span> & <span style="color:#0078d4">P</span><span style="color:#732982">r</span><span style="color:#e40303">i</span><span style="color:#ff8c00">d</span><span style="color:#ffed00">e</span> <span style="color:#008018">A</span><span style="color:#0078d4">r</span><span style="color:#732982">s</span><span style="color:#e40303">e</span><span style="color:#ff8c00">n</span><span style="color:#ffed00">a</span><span style="color:#008018">l</span>
+## <div align="center">⚡ <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">T</span><span style="color:#ffed00">e</span><span style="color:#008018">c</span><span style="color:#0078d4">h</span> <span style="color:#732982">S</span><span style="color:#e40303">t</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">c</span><span style="color:#008018">k</span> & <span style="color:#0078d4">P</span><span style="color:#732982">r</span><span style="color:#e40303">i</span><span style="color:#ff8c00">d</span><span style="color:#ffed00">e</span> <span style="color:#008018">A</span><span style="color:#0078d4">r</span><span style="color:#732982">s</span><span style="color:#e40303">e</span><span style="color:#ff8c00">n</span><span style="color:#ffed00">a</span><span style="color:#008018">l</span></div>
 
 <div align="center">
+<table>
+<tr>
+<td align="center">
 
-### 🌈 Frontend Rainbow Wizardry
+### <span style="color:#e40303">🌈</span> <span style="color:#ff8c00">F</span><span style="color:#ffed00">r</span><span style="color:#008018">o</span><span style="color:#0078d4">n</span><span style="color:#732982">t</span><span style="color:#e40303">e</span><span style="color:#ff8c00">n</span><span style="color:#ffed00">d</span> <span style="color:#008018">R</span><span style="color:#0078d4">a</span><span style="color:#732982">i</span><span style="color:#e40303">n</span><span style="color:#ff8c00">b</span><span style="color:#ffed00">o</span><span style="color:#008018">w</span> <span style="color:#0078d4">W</span><span style="color:#732982">i</span><span style="color:#e40303">z</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">r</span><span style="color:#008018">d</span><span style="color:#0078d4">r</span><span style="color:#732982">y</span>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Pride](https://img.shields.io/badge/Pride-Code-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
 
-### 🎵 Audio Production with Pride
+</td>
+<td align="center">
+
+### <span style="color:#e40303">🎵</span> <span style="color:#ff8c00">A</span><span style="color:#ffed00">u</span><span style="color:#008018">d</span><span style="color:#0078d4">i</span><span style="color:#732982">o</span> <span style="color:#e40303">P</span><span style="color:#ff8c00">r</span><span style="color:#ffed00">o</span><span style="color:#008018">d</span><span style="color:#0078d4">u</span><span style="color:#732982">c</span><span style="color:#e40303">t</span><span style="color:#ff8c00">i</span><span style="color:#ffed00">o</span><span style="color:#008018">n</span> <span style="color:#0078d4">w</span><span style="color:#732982">i</span><span style="color:#e40303">t</span><span style="color:#ff8c00">h</span> <span style="color:#ffed00">P</span><span style="color:#008018">r</span><span style="color:#0078d4">i</span><span style="color:#732982">d</span><span style="color:#e40303">e</span>
+
 ![Logic Pro](https://img.shields.io/badge/Logic_Pro-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=ableton-live&logoColor=white)
 ![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Pride Beats](https://img.shields.io/badge/Pride_Beats-140_BPM-FF1493?style=for-the-badge&logo=music&logoColor=white)
 
-### 💻 Terminal & Rainbow Development
+</td>
+<td align="center">
+
+### <span style="color:#e40303">💻</span> <span style="color:#ff8c00">T</span><span style="color:#ffed00">e</span><span style="color:#008018">r</span><span style="color:#0078d4">m</span><span style="color:#732982">i</span><span style="color:#e40303">n</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">l</span> <span style="color:#008018">&</span> <span style="color:#0078d4">R</span><span style="color:#732982">a</span><span style="color:#e40303">i</span><span style="color:#ff8c00">n</span><span style="color:#ffed00">b</span><span style="color:#008018">o</span><span style="color:#0078d4">w</span> <span style="color:#732982">D</span><span style="color:#e40303">e</span><span style="color:#ff8c00">v</span><span style="color:#ffed00">e</span><span style="color:#008018">l</span><span style="color:#0078d4">o</span><span style="color:#732982">p</span><span style="color:#e40303">m</span><span style="color:#ff8c00">e</span><span style="color:#ffed00">n</span><span style="color:#008018">t</span>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Rainbow_Terminal-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## 📊 <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">G</span><span style="color:#ffed00">i</span><span style="color:#008018">t</span><span style="color:#0078d4">H</span><span style="color:#732982">u</span><span style="color:#e40303">b</span> <span style="color:#ff8c00">P</span><span style="color:#ffed00">r</span><span style="color:#008018">i</span><span style="color:#0078d4">d</span><span style="color:#732982">e</span> <span style="color:#e40303">S</span><span style="color:#ff8c00">t</span><span style="color:#ffed00">a</span><span style="color:#008018">t</span><span style="color:#0078d4">i</span><span style="color:#732982">s</span><span style="color:#e40303">t</span><span style="color:#ff8c00">i</span><span style="color:#ffed00">c</span><span style="color:#008018">s</span>
+## <div align="center">📊 <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">G</span><span style="color:#ffed00">i</span><span style="color:#008018">t</span><span style="color:#0078d4">H</span><span style="color:#732982">u</span><span style="color:#e40303">b</span> <span style="color:#ff8c00">P</span><span style="color:#ffed00">r</span><span style="color:#008018">i</span><span style="color:#0078d4">d</span><span style="color:#732982">e</span> <span style="color:#e40303">S</span><span style="color:#ff8c00">t</span><span style="color:#ffed00">a</span><span style="color:#008018">t</span><span style="color:#0078d4">i</span><span style="color:#732982">s</span><span style="color:#e40303">t</span><span style="color:#ff8c00">i</span><span style="color:#ffed00">c</span><span style="color:#008018">s</span></div>
 
 <div align="center">
+<table>
+<tr>
+<td align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharkBLN&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e40303&text_color=F0F1F2&icon_color=ff8c00"/>
+
+</td>
+<td align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkBLN&layout=compact&langs_count=7&theme=radical&bg_color=0d1117&title_color=ffed00&text_color=F0F1F2"/>
 
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
@@ -463,7 +544,7 @@ sharkBLN@rainbow-terminal:~$ sudo systemctl status pride-empire.service
 
 ---
 
-## 🎵 <span style="color:#e40303">P</span><span style="color:#ff8c00">r</span><span style="color:#ffed00">i</span><span style="color:#008018">d</span><span style="color:#0078d4">e</span> <span style="color:#732982">A</span><span style="color:#e40303">u</span><span style="color:#ff8c00">d</span><span style="color:#ffed00">i</span><span style="color:#008018">o</span> <span style="color:#0078d4">F</span><span style="color:#732982">r</span><span style="color:#e40303">e</span><span style="color:#ff8c00">q</span><span style="color:#ffed00">u</span><span style="color:#008018">e</span><span style="color:#0078d4">n</span><span style="color:#732982">c</span><span style="color:#e40303">i</span><span style="color:#ff8c00">e</span><span style="color:#ffed00">s</span> & <span style="color:#008018">R</span><span style="color:#0078d4">a</span><span style="color:#732982">i</span><span style="color:#e40303">n</span><span style="color:#ff8c00">b</span><span style="color:#ffed00">o</span><span style="color:#008018">w</span> <span style="color:#0078d4">B</span><span style="color:#732982">e</span><span style="color:#e40303">a</span><span style="color:#ff8c00">t</span><span style="color:#ffed00">s</span>
+## <div align="center">🎵 <span style="color:#e40303">P</span><span style="color:#ff8c00">r</span><span style="color:#ffed00">i</span><span style="color:#008018">d</span><span style="color:#0078d4">e</span> <span style="color:#732982">A</span><span style="color:#e40303">u</span><span style="color:#ff8c00">d</span><span style="color:#ffed00">i</span><span style="color:#008018">o</span> <span style="color:#0078d4">F</span><span style="color:#732982">r</span><span style="color:#e40303">e</span><span style="color:#ff8c00">q</span><span style="color:#ffed00">u</span><span style="color:#008018">e</span><span style="color:#0078d4">n</span><span style="color:#732982">c</span><span style="color:#e40303">i</span><span style="color:#ff8c00">e</span><span style="color:#ffed00">s</span> & <span style="color:#008018">R</span><span style="color:#0078d4">a</span><span style="color:#732982">i</span><span style="color:#e40303">n</span><span style="color:#ff8c00">b</span><span style="color:#ffed00">o</span><span style="color:#008018">w</span> <span style="color:#0078d4">B</span><span style="color:#732982">e</span><span style="color:#e40303">a</span><span style="color:#ff8c00">t</span><span style="color:#ffed00">s</span></div>
 
 <div align="center">
   <svg viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg" width="60%">
@@ -535,6 +616,11 @@ sharkBLN@rainbow-terminal:~$ sudo systemctl status pride-empire.service
   </svg>
 </div>
 
+<div align="center">
+<table>
+<tr>
+<td align="center">
+
 ```bash
 sharkBLN@rainbow-audio-terminal:~$ systemctl status rainbow-necromancer.service
 ● rainbow-necromancer.service - Pride Underground Techno Transmission
@@ -566,31 +652,55 @@ sharkBLN@rainbow-audio-terminal:~$ curl -s api.soundcloud.com/nil-pride | jq '.r
 }
 ```
 
----
-
-## 🔗 <span style="color:#e40303">C</span><span style="color:#ff8c00">o</span><span style="color:#ffed00">n</span><span style="color:#008018">n</span><span style="color:#0078d4">e</span><span style="color:#732982">c</span><span style="color:#e40303">t</span> <span style="color:#ff8c00">t</span><span style="color:#ffed00">o</span> <span style="color:#008018">t</span><span style="color:#0078d4">h</span><span style="color:#732982">e</span> <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">D</span><span style="color:#ffed00">i</span><span style="color:#008018">g</span><span style="color:#0078d4">i</span><span style="color:#732982">t</span><span style="color:#e40303">a</span><span style="color:#ff8c00">l</span> <span style="color:#ffed00">E</span><span style="color:#008018">m</span><span style="color:#0078d4">p</span><span style="color:#732982">i</span><span style="color:#e40303">r</span><span style="color:#ff8c00">e</span>
-
-<div align="center">
-
-### 🏳️‍🌈 Pride Music & Audio
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-Pride_Sets-FF3300?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/nil-official)
-[![Beatport](https://img.shields.io/badge/Beatport-Rainbow_Releases-FF6900?style=for-the-badge&logo=beatport)](https://beatport.com/artist/nil)
-[![Email](https://img.shields.io/badge/Booking-music@n--il.de-F20544?style=for-the-badge&logo=gmail)](mailto:music@n-il.de)
-
-### 💻 Rainbow Development & Code
-[![Website](https://img.shields.io/badge/Portal-happening.today-0078d4?style=for-the-badge&logo=github-pages)](https://happening.today)
-[![Dashboard](https://img.shields.io/badge/Rainbow-Central_Command-732982?style=for-the-badge&logo=terminal)](https://happening.today/dashboard.html)
-
-### 🌈 Pride & Community
-[![Pride Portal](https://img.shields.io/badge/Pride-Love_Is_Love-e40303?style=for-the-badge&logo=heart)](https://happening.today/pride.html)
-[![Equality](https://img.shields.io/badge/Human_Race-One_&_Equal-008018?style=for-the-badge&logo=rainbow)](https://happening.today/pride.html)
-[![Rainbow Generator](https://img.shields.io/badge/Rainbow-Banner_Generator-ff8c00?style=for-the-badge&logo=color-lens)](https://happening.today/tools/rainbow-generator.html)
-
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## 🎯 <span style="color:#e40303">C</span><span style="color:#ff8c00">u</span><span style="color:#ffed00">r</span><span style="color:#008018">r</span><span style="color:#0078d4">e</span><span style="color:#732982">n</span><span style="color:#e40303">t</span> <span style="color:#ff8c00">R</span><span style="color:#ffed00">a</span><span style="color:#008018">i</span><span style="color:#0078d4">n</span><span style="color:#732982">b</span><span style="color:#e40303">o</span><span style="color:#ff8c00">w</span> <span style="color:#ffed00">P</span><span style="color:#008018">r</span><span style="color:#0078d4">o</span><span style="color:#732982">j</span><span style="color:#e40303">e</span><span style="color:#ff8c00">c</span><span style="color:#ffed00">t</span><span style="color:#008018">s</span> & <span style="color:#0078d4">P</span><span style="color:#732982">r</span><span style="color:#e40303">i</span><span style="color:#ff8c00">d</span><span style="color:#ffed00">e</span> <span style="color:#008018">E</span><span style="color:#0078d4">x</span><span style="color:#732982">p</span><span style="color:#e40303">e</span><span style="color:#ff8c00">r</span><span style="color:#ffed00">i</span><span style="color:#008018">m</span><span style="color:#0078d4">e</span><span style="color:#732982">n</span><span style="color:#e40303">t</span><span style="color:#ff8c00">s</span>
+## <div align="center">🔗 <span style="color:#e40303">C</span><span style="color:#ff8c00">o</span><span style="color:#ffed00">n</span><span style="color:#008018">n</span><span style="color:#0078d4">e</span><span style="color:#732982">c</span><span style="color:#e40303">t</span> <span style="color:#ff8c00">t</span><span style="color:#ffed00">o</span> <span style="color:#008018">t</span><span style="color:#0078d4">h</span><span style="color:#732982">e</span> <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">D</span><span style="color:#ffed00">i</span><span style="color:#008018">g</span><span style="color:#0078d4">i</span><span style="color:#732982">t</span><span style="color:#e40303">a</span><span style="color:#ff8c00">l</span> <span style="color:#ffed00">E</span><span style="color:#008018">m</span><span style="color:#0078d4">p</span><span style="color:#732982">i</span><span style="color:#e40303">r</span><span style="color:#ff8c00">e</span></div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+
+### <span style="color:#e40303">🏳️‍🌈</span> <span style="color:#ff8c00">P</span><span style="color:#ffed00">r</span><span style="color:#008018">i</span><span style="color:#0078d4">d</span><span style="color:#732982">e</span> <span style="color:#e40303">M</span><span style="color:#ff8c00">u</span><span style="color:#ffed00">s</span><span style="color:#008018">i</span><span style="color:#0078d4">c</span> <span style="color:#732982">&</span> <span style="color:#e40303">A</span><span style="color:#ff8c00">u</span><span style="color:#ffed00">d</span><span style="color:#008018">i</span><span style="color:#0078d4">o</span>
+
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-Pride_Sets-FF3300?style=for-the-badge&logo=soundcloud)](https://soundcloud.com/nil-official)
+[![Beatport](https://img.shields.io/badge/Beatport-Rainbow_Releases-FF6900?style=for-the-badge&logo=beatport)](https://beatport.com/artist/nil)
+[![Email](https://img.shields.io/badge/Booking-music@n--il.de-F20544?style=for-the-badge&logo=gmail)](mailto:music@n-il.de)
+
+</td>
+<td align="center">
+
+### <span style="color:#e40303">💻</span> <span style="color:#ff8c00">R</span><span style="color:#ffed00">a</span><span style="color:#008018">i</span><span style="color:#0078d4">n</span><span style="color:#732982">b</span><span style="color:#e40303">o</span><span style="color:#ff8c00">w</span> <span style="color:#ffed00">D</span><span style="color:#008018">e</span><span style="color:#0078d4">v</span><span style="color:#732982">e</span><span style="color:#e40303">l</span><span style="color:#ff8c00">o</span><span style="color:#ffed00">p</span><span style="color:#008018">m</span><span style="color:#0078d4">e</span><span style="color:#732982">n</span><span style="color:#e40303">t</span> <span style="color:#ff8c00">&</span> <span style="color:#ffed00">C</span><span style="color:#008018">o</span><span style="color:#0078d4">d</span><span style="color:#732982">e</span>
+
+[![Website](https://img.shields.io/badge/Portal-happening.today-0078d4?style=for-the-badge&logo=github-pages)](https://happening.today)
+[![Dashboard](https://img.shields.io/badge/Rainbow-Central_Command-732982?style=for-the-badge&logo=terminal)](https://happening.today/dashboard.html)
+
+</td>
+<td align="center">
+
+### <span style="color:#e40303">🌈</span> <span style="color:#ff8c00">P</span><span style="color:#ffed00">r</span><span style="color:#008018">i</span><span style="color:#0078d4">d</span><span style="color:#732982">e</span> <span style="color:#e40303">&</span> <span style="color:#ff8c00">C</span><span style="color:#ffed00">o</span><span style="color:#008018">m</span><span style="color:#0078d4">m</span><span style="color:#732982">u</span><span style="color:#e40303">n</span><span style="color:#ff8c00">i</span><span style="color:#ffed00">t</span><span style="color:#008018">y</span>
+
+[![Pride Portal](https://img.shields.io/badge/Pride-Love_Is_Love-e40303?style=for-the-badge&logo=heart)](https://happening.today/pride.html)
+[![Equality](https://img.shields.io/badge/Human_Race-One_&_Equal-008018?style=for-the-badge&logo=rainbow)](https://happening.today/pride.html)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## <div align="center">🎯 <span style="color:#e40303">C</span><span style="color:#ff8c00">u</span><span style="color:#ffed00">r</span><span style="color:#008018">r</span><span style="color:#0078d4">e</span><span style="color:#732982">n</span><span style="color:#e40303">t</span> <span style="color:#ff8c00">R</span><span style="color:#ffed00">a</span><span style="color:#008018">i</span><span style="color:#0078d4">n</span><span style="color:#732982">b</span><span style="color:#e40303">o</span><span style="color:#ff8c00">w</span> <span style="color:#ffed00">P</span><span style="color:#008018">r</span><span style="color:#0078d4">o</span><span style="color:#732982">j</span><span style="color:#e40303">e</span><span style="color:#ff8c00">c</span><span style="color:#ffed00">t</span><span style="color:#008018">s</span> & <span style="color:#0078d4">P</span><span style="color:#732982">r</span><span style="color:#e40303">i</span><span style="color:#ff8c00">d</span><span style="color:#ffed00">e</span> <span style="color:#008018">E</span><span style="color:#0078d4">x</span><span style="color:#732982">p</span><span style="color:#e40303">e</span><span style="color:#ff8c00">r</span><span style="color:#ffed00">i</span><span style="color:#008018">m</span><span style="color:#0078d4">e</span><span style="color:#732982">n</span><span style="color:#e40303">t</span><span style="color:#ff8c00">s</span></div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
 
 ```bash
 sharkBLN@rainbow-development:~/pride-projects$ ls -la
@@ -610,9 +720,17 @@ sharkBLN@rainbow-development:~/pride-projects$ cat currently-playing-pride.bpm
 140 BPM - Berlin Underground Pride Techno - Rainbow Terminal Aesthetics - Love is Love 🏳️‍🌈
 ```
 
-### 🏳️‍🌈 Active Rainbow Experiments
+</td>
+</tr>
+</table>
+</div>
+
+### <div align="center">🏳️‍🌈 <span style="color:#e40303">A</span><span style="color:#ff8c00">c</span><span style="color:#ffed00">t</span><span style="color:#008018">i</span><span style="color:#0078d4">v</span><span style="color:#732982">e</span> <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">E</span><span style="color:#ffed00">x</span><span style="color:#008018">p</span><span style="color:#0078d4">e</span><span style="color:#732982">r</span><span style="color:#e40303">i</span><span style="color:#ff8c00">m</span><span style="color:#ffed00">e</span><span style="color:#008018">n</span><span style="color:#0078d4">t</span><span style="color:#732982">s</span></div>
 
 <div align="center">
+<table>
+<tr>
+<td align="center">
 
 | Project | Status | Pride Factor | Technology | Description |
 |---------|--------|--------------|------------|-------------|
@@ -623,7 +741,15 @@ sharkBLN@rainbow-development:~/pride-projects$ cat currently-playing-pride.bpm
 | 🔮 **Digital Alchemy Pride** | `EXPERIMENTING` | 🏳️‍🌈 **MEDIUM** | `React + WebGL` | Pride-powered code transformation tools |
 | 🏃‍♂️ **Escape the Heteronorm** | `PROTOTYPE` | 🏳️‍🌈 **HIGH** | `Phaser.js` | Retro pride-themed arcade game |
 
+</td>
+</tr>
+</table>
 </div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
 
 ```bash
 sharkBLN@rainbow-terminal:~$ git log --oneline --rainbow
@@ -636,65 +762,31 @@ sharkBLN@rainbow-terminal:~$ git log --oneline --rainbow
 🌈 e40303a feat: Launch NIL Digital Empire Pride Edition v2025.06
 ```
 
----
-
-<div align="center">
-  <svg viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg" width="80%">
-    <defs>
-      <!-- Pride gradient -->
-      <linearGradient id="prideGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#e40303"/>
-        <stop offset="16.66%" style="stop-color:#ff8c00"/>
-        <stop offset="33.33%" style="stop-color:#ffed00"/>
-        <stop offset="50%" style="stop-color:#008c26"/>
-        <stop offset="66.66%" style="stop-color:#004cff"/>
-        <stop offset="83.33%" style="stop-color:#732982"/>
-        <stop offset="100%" style="stop-color:#e40303"/>
-        <animateTransform attributeName="gradientTransform" type="translate" values="0 0; 100 0; 0 0" dur="3s" repeatCount="indefinite"/>
-      </linearGradient>
-      <!-- Heart glow -->
-      <filter id="heartGlow">
-        <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-        <feMerge> 
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <!-- Background -->
-    <rect width="800" height="60" fill="#0a0a0a" rx="8"/>
-    <!-- Pride stripe background -->
-    <rect x="4" y="4" width="792" height="52" fill="url(#prideGradient)" opacity="0.3" rx="6"/>
-    <!-- Main message -->
-    <text x="400" y="38" font-family="Monaco, 'Courier New', monospace" font-size="24" font-weight="bold" text-anchor="middle" fill="url(#prideGradient)" filter="url(#heartGlow)">
-      💖 LOVE IS LOVE • ONE HUMAN RACE 💖
-      <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite"/>
-    </text>
-    <!-- Floating hearts -->
-    <g>
-      <text x="50" y="35" font-size="16" fill="#ff0080">💕</text>
-      <animateTransform attributeName="transform" type="translate" values="0,0; 20,-10; 0,0" dur="3s" repeatCount="indefinite"/>
-    </g>
-    <g>
-      <text x="720" y="40" font-size="16" fill="#ff0080">💕</text>
-      <animateTransform attributeName="transform" type="translate" values="0,0; -15,5; 0,0" dur="4s" repeatCount="indefinite"/>
-    </g>
-    <!-- Terminal cursor -->
-    <rect x="780" y="25" width="3" height="12" fill="#00ff00">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-    </rect>
-  </svg>
+</td>
+</tr>
+</table>
 </div>
 
-## 💫 <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">P</span><span style="color:#ffed00">h</span><span style="color:#008018">i</span><span style="color:#0078d4">l</span><span style="color:#732982">o</span><span style="color:#e40303">s</span><span style="color:#ff8c00">o</span><span style="color:#ffed00">p</span><span style="color:#008018">h</span><span style="color:#0078d4">y</span> & <span style="color:#732982">D</span><span style="color:#e40303">i</span><span style="color:#ff8c00">g</span><span style="color:#ffed00">i</span><span style="color:#008018">t</span><span style="color:#0078d4">a</span><span style="color:#732982">l</span> <span style="color:#e40303">M</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">n</span><span style="color:#008018">i</span><span style="color:#0078d4">f</span><span style="color:#732982">e</span><span style="color:#e40303">s</span><span style="color:#ff8c00">t</span><span style="color:#ffed00">o</span>
+## <div align="center">💫 <span style="color:#e40303">R</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">i</span><span style="color:#008018">n</span><span style="color:#0078d4">b</span><span style="color:#732982">o</span><span style="color:#e40303">w</span> <span style="color:#ff8c00">P</span><span style="color:#ffed00">h</span><span style="color:#008018">i</span><span style="color:#0078d4">l</span><span style="color:#732982">o</span><span style="color:#e40303">s</span><span style="color:#ff8c00">o</span><span style="color:#ffed00">p</span><span style="color:#008018">h</span><span style="color:#0078d4">y</span> & <span style="color:#732982">D</span><span style="color:#e40303">i</span><span style="color:#ff8c00">g</span><span style="color:#ffed00">i</span><span style="color:#008018">t</span><span style="color:#0078d4">a</span><span style="color:#732982">l</span> <span style="color:#e40303">M</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">n</span><span style="color:#008018">i</span><span style="color:#0078d4">f</span><span style="color:#732982">e</span><span style="color:#e40303">s</span><span style="color:#ff8c00">t</span><span style="color:#ffed00">o</span></div>
 
 <div align="center">
+<table>
+<tr>
+<td align="center">
 
 > *"In the digital realm, there are no borders, no prejudices, only the beautiful spectrum of human creativity flowing through fiber optic rainbows. Code is poetry, music is mathematics, and love is the ultimate algorithm that compiles perfectly every time."* 
 > 
-> **— sharkBLN, Terminal Poet & Digital Pride Warrior 🌈**
+> **— <span style="color:#e40303">s</span><span style="color:#ff8c00">h</span><span style="color:#ffed00">a</span><span style="color:#008018">r</span><span style="color:#0078d4">k</span><span style="color:#732982">B</span><span style="color:#e40303">L</span><span style="color:#ff8c00">N</span>, Terminal Poet & Digital Pride Warrior 🌈**
 
+</td>
+</tr>
+</table>
 </div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
 
 ```bash
 sharkBLN@rainbow-terminal:~$ cat /etc/pride-manifesto.conf
@@ -727,11 +819,19 @@ amplitude=maximum_pride
 echo "🌈 Berlin never sleeps, and neither does equality 🌈"
 ```
 
+</td>
+</tr>
+</table>
+</div>
+
 ---
 
-## 🦈 <span style="color:#e40303">A</span><span style="color:#ff8c00">b</span><span style="color:#ffed00">o</span><span style="color:#008018">u</span><span style="color:#0078d4">t</span> <span style="color:#732982">S</span><span style="color:#e40303">h</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">r</span><span style="color:#008018">k</span><span style="color:#0078d4">B</span><span style="color:#732982">L</span><span style="color:#e40303">N</span> & <span style="color:#ff8c00">N</span><span style="color:#ffed00">I</span><span style="color:#008018">L</span>
+## <div align="center">🦈 <span style="color:#e40303">A</span><span style="color:#ff8c00">b</span><span style="color:#ffed00">o</span><span style="color:#008018">u</span><span style="color:#0078d4">t</span> <span style="color:#732982">S</span><span style="color:#e40303">h</span><span style="color:#ff8c00">a</span><span style="color:#ffed00">r</span><span style="color:#008018">k</span><span style="color:#0078d4">B</span><span style="color:#732982">L</span><span style="color:#e40303">N</span> & <span style="color:#ff8c00">N</span><span style="color:#ffed00">I</span><span style="color:#008018">L</span></div>
 
 <div align="center">
+<table>
+<tr>
+<td align="center">
 
 **From the underground techno clubs of Berlin to the infinite digital cosmos, NIL represents the fusion of authentic human expression with cutting-edge technology. Every beat, every line of code, and every rainbow pixel is crafted with intention: to create a digital space where everyone belongs, where creativity knows no bounds, and where love truly is the most powerful force in the universe.**
 
@@ -739,7 +839,15 @@ echo "🌈 Berlin never sleeps, and neither does equality 🌈"
 
 *Fun fact: The name "NIL" represents the null state - the beginning of infinite possibilities, while "sharkBLN" embodies the sharp, decisive energy of Berlin's creative spirit moving through digital waters.* 🦈
 
+</td>
+</tr>
+</table>
 </div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
 
 ```bash
 sharkBLN@rainbow-terminal:~$ echo "HAPPY PRIDE MONTH AND BEYOND! 🏳️‍🌈✨"
@@ -755,12 +863,37 @@ sharkBLN@rainbow-terminal:~$ while true; do echo "🌈"; sleep 0.14; done
 🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈
 ```
 
-<div align="center">
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-### <span style="color:#e40303">🏳️‍🌈</span> <span style="color:#ff8c00">S</span><span style="color:#ffed00">p</span><span style="color:#008018">r</span><span style="color:#0078d4">e</span><span style="color:#732982">a</span><span style="color:#e40303">d</span><span style="color:#ff8c00">i</span><span style="color:#ffed00">n</span><span style="color:#008018">g</span> <span style="color:#0078d4">R</span><span style="color:#732982">a</span><span style="color:#e40303">i</span><span style="color:#ff8c00">n</span><span style="color:#ffed00">b</span><span style="color:#008018">o</span><span style="color:#0078d4">w</span> <span style="color:#732982">L</span><span style="color:#e40303">o</span><span style="color:#ff8c00">v</span><span style="color:#ffed00">e</span> <span style="color:#008018">A</span><span style="color:#0078d4">c</span><span style="color:#732982">r</span><span style="color:#e40303">o</span><span style="color:#ff8c00">s</span><span style="color:#ffed00">s</span> <span style="color:#008018">T</span><span style="color:#0078d4">h</span><span style="color:#732982">e</span> <span style="color:#e40303">D</span><span style="color:#ff8c00">i</span><span style="color:#ffed00">g</span><span style="color:#008018">i</span><span style="color:#0078d4">t</span><span style="color:#732982">a</span><span style="color:#e40303">l</span> <span style="color:#ff8c00">R</span><span style="color:#ffed00">e</span><span style="color:#008018">a</span><span style="color:#0078d4">l</span><span style="color:#732982">m</span> <span style="color:#e40303">🏳️‍🌈</span>
+### <div align="center"><span style="color:#e40303">🏳️‍🌈</span> <span style="color:#ff8c00">S</span><span style="color:#ffed00">p</span><span style="color:#008018">r</span><span style="color:#0078d4">e</span><span style="color:#732982">a</span><span style="color:#e40303">d</span><span style="color:#ff8c00">i</span><span style="color:#ffed00">n</span><span style="color:#008018">g</span> <span style="color:#0078d4">R</span><span style="color:#732982">a</span><span style="color:#e40303">i</span><span style="color:#ff8c00">n</span><span style="color:#ffed00">b</span><span style="color:#008018">o</span><span style="color:#0078d4">w</span> <span style="color:#732982">L</span><span style="color:#e40303">o</span><span style="color:#ff8c00">v</span><span style="color:#ffed00">e</span> <span style="color:#008018">A</span><span style="color:#0078d4">c</span><span style="color:#732982">r</span><span style="color:#e40303">o</span><span style="color:#ff8c00">s</span><span style="color:#ffed00">s</span> <span style="color:#008018">T</span><span style="color:#0078d4">h</span><span style="color:#732982">e</span> <span style="color:#e40303">D</span><span style="color:#ff8c00">i</span><span style="color:#ffed00">g</span><span style="color:#008018">i</span><span style="color:#0078d4">t</span><span style="color:#732982">a</span><span style="color:#e40303">l</span> <span style="color:#ff8c00">R</span><span style="color:#ffed00">e</span><span style="color:#008018">a</span><span style="color:#0078d4">l</span><span style="color:#732982">m</span> <span style="color:#e40303">🏳️‍🌈</span></div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FsharkBLN&labelColor=%23e40303&countColor=%23ff8c00&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FsharkBLN)
 
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+
+**🌈 Maximum Pride Mode: ALWAYS ACTIVATED 🌈**  
+**🎵 140 BPM Berlin Underground Pride Techno 🎵**  
+**🏳️‍🌈 Love is Love, Code is Art, Equality is Non-Negotiable 🏳️‍🌈**
+
+</td>
+</tr>
+</table>
 </div>
