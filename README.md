@@ -696,13 +696,4 @@ Music by [ZenMan from Pixabay](https://pixabay.com/music/)
   <text x="0" y="35" fill="url(#rainbow-gradient)" font-family="JetBrains Mono, monospace" font-size="24" font-weight="bold">🟥🟧🟨🟩🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨</text>
 </svg>
 
-
-
-Shark BLN 🦈
-Swimming through Berlin's digital waters
-
-TypeScript
-React
-Node.js
-Docker
-GitHub Actions
+![GitHub Shark Banner](https://github.com/user-attachments/assets/89e49a4b-3ed0-4644-9bb1-e7fc6f193bd1)
