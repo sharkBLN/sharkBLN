@@ -1,3 +1,5 @@
+
+🟥🟧🟨🟩🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟥🟧🟨🟩🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨
 👾👾👾👾👾  
 👾 **UNDER CONSTRUCTION** 👾  
 🕹️ 💾 🎮 🪙 🚧 🎰  
@@ -10,7 +12,7 @@
 
 © 2025 nil underground collective // techno rituals & digital mischief  
 Music by [ZenMan from Pixabay](https://pixabay.com/music/)  
-
+🟥🟧🟨🟩🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟥🟧🟨🟩🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨
 <svg width="100%" height="60" viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="rainbow-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
