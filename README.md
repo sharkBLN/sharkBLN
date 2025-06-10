@@ -697,3 +697,12 @@ Music by [ZenMan from Pixabay](https://pixabay.com/music/)
 </svg>
 
 
+
+Shark BLN 🦈
+Swimming through Berlin's digital waters
+
+TypeScript
+React
+Node.js
+Docker
+GitHub Actions
