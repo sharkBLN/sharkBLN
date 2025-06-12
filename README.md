@@ -151,3 +151,55 @@ Happy Pride! 🦈🦑🪸
 ![Footer Banner](https://github.com/sharkBLN/sharkBLN/blob/main/assets/header_bottom.png?raw=true)
 
 🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪🟥🟧🟨🟩🟦🟪
+
+---
+
+[![About This README](https://img.shields.io/badge/About%20This%20README-%F0%9F%A6%88-blueviolet?style=for-the-badge)](#about-this-readme)
+
+## 🦈 About This README
+
+This README is a living experiment.
+Made for the wild ones, the curious, and anyone who believes code should never be boring.
+
+If you find an emoji that shouldn’t be here, it’s a feature, not a bug.
+No AI was harmed (much) in the making of this page.
+
+---
+
+[![CLUB NIGHT SURVIVOR](https://img.shields.io/badge/-CLUB%20NIGHT%20SURVIVOR-black?style=flat-square&logo=music)]()
+[![AI MISCHIEF LOVER](https://img.shields.io/badge/-AI%20MISCHIEF%20LOVER-8A2BE2?logo=github)]()
+[![RAINBOW FRIENDLY](https://img.shields.io/badge/-RAINBOW%20FRIENDLY-%23e66465?style=flat-square&logo=rainbow)]()
+
+---
+
+<details>
+  <summary>🐟 Secret: Shark Wisdom</summary>
+  <blockquote>
+    <b>“If you can’t find your focus, follow the colors.”</b>
+    <br>
+    – Ancient Rainbow Shark Proverb
+  </blockquote>
+</details>
+
+<details>
+  <summary>🤫 Fun fact?</summary>
+  SharkBLN's README was once caught DJing in the deep end of a Reolink stream.<br>
+  No one survived the drop. 🦈
+</details>
+
+<details>
+  <summary>🐙 Do not open this tentacle</summary>
+  <img src="https://media.giphy.com/media/3o7btNR7bZ1jCw1VYs/giphy.gif" width="200"/>
+</details>
+
+<!--
+         /""-._
+        .       '""--.._
+ :     :           _.    '""--.._
+ :    .'        .'              '""--.._
+  '--'        .'                        '""--.._
+            .'                                 .-'
+            '--..__                        .--'
+                   '--..__           _..--'
+                          '--..__.-'
+-->
